@@ -8,10 +8,11 @@ fs.readdir('input/cards', (err, files) => {
                 const json = JSON.parse(fs.readFileSync(`input/cards/${file1}/${file2}`, 'utf-8'))
 
                 for (const entry of json) {
-                    const path = `${file1}/${file2.replace('.json', '')}/${entry.name}`
+                    const path = `${file1}/${file2.replace('.json', '')}/`
 
-                    generateCard(
-                        `${path}.svg`,
+                    generateSvg(
+                        path,
+                        `${entry.name}.svg`,
                         entry.title,
                         cardFrame(entry.frame),
                         cardImage(entry.image),
@@ -21,7 +22,7 @@ fs.readdir('input/cards', (err, files) => {
                         entry.levels,
                     )
 
-                    convertSvg2Png(path)
+                    convertSvg2Png(`${path}${entry.name}`)
                 }
             })
         })
@@ -77,7 +78,7 @@ function descriptionLine(text, index) {
     return `<tspan sodipodi:role="line" style="font-size:13px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
 }
 
-function generateCard(name, title, frame, image, subtitle, cost, description, levels) {
+function generateSvg(path, name, title, frame, image, subtitle, cost, description, levels) {
     let card = template
         .replace('{{TITLE}}', title)
         .replace('{{SUBTITLE}}', subtitle)
@@ -109,5 +110,15 @@ function generateCard(name, title, frame, image, subtitle, cost, description, le
     card = card.replace('{{LEVELS}}', levelsTag)
     card = card.replace('{{COST}}', costChip(cost))
 
-    fs.writeFileSync(`svg/${name}`, card)
+    try {
+        fs.mkdirSync(`png/${path}`, { recursive: true })
+    } catch (e) {
+    }
+
+    try {
+        fs.mkdirSync(`svg/${path}`, { recursive: true })
+    } catch (e) {
+    }
+
+    fs.writeFileSync(`svg/${path}${name}`, card)
 }

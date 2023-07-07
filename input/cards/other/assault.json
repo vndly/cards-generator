@@ -1,0 +1,19 @@
+[
+    {
+        "name": "assault",
+        "title": "Assault",
+        "frame": "land",
+        "image": "other/assault",
+        "subtitle": "Attack",
+        "cost": "$500#13",
+        "description": [
+            "The player can attack another player's",
+            "territory using their thugs.",
+            "",
+            "If the attacker has more power than the",
+            "defender, it takes all the money and drugs",
+            "in that territory."
+        ],
+        "levels": []
+    }
+]
