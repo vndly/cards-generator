@@ -8,6 +8,7 @@
         "cost": "$100#13",
         "description": [
             "It can sell as many drugs as its level.",
+            "",
             "Can only sell one type of drug at a",
             "given time."
         ],
