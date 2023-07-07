@@ -1,13 +1,19 @@
 [
     [
-        "crew/pusher/pusher1.png",
-        "crew/pusher/pusher1.png",
-        "crew/pusher/pusher1.png",
-        "crew/pusher/pusher1.png",
-        "crew/pusher/pusher1.png",
-        "crew/pusher/pusher1.png",
-        "crew/pusher/pusher1.png",
-        "crew/pusher/pusher1.png",
-        "crew/pusher/pusher1.png"
+        [
+            "crew/pusher/pusher1.png",
+            "crew/pusher/pusher1.png",
+            "crew/pusher/pusher1.png"
+        ],
+        [
+            "crew/pusher/pusher1.png",
+            "crew/pusher/pusher1.png",
+            "crew/pusher/pusher1.png"
+        ],
+        [
+            "crew/pusher/pusher1.png",
+            "crew/pusher/pusher1.png",
+            "crew/pusher/pusher1.png"
+        ]
     ]
 ]
