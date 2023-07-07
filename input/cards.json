@@ -15,5 +15,39 @@
         "levels": [
             "1"
         ]
+    },
+    {
+        "name": "crew/pusher/pusher2.svg",
+        "title": "Pusher",
+        "frame": "blue",
+        "image": "pusher",
+        "subtitle": "Crew",
+        "cost": "$200#13",
+        "description": [
+            "It can sell as many drugs as its level.",
+            "",
+            "Can only sell one type of drug at a",
+            "given time."
+        ],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "crew/pusher/pusher3.svg",
+        "title": "Pusher",
+        "frame": "blue",
+        "image": "pusher",
+        "subtitle": "Crew",
+        "cost": "$300#13",
+        "description": [
+            "It can sell as many drugs as its level.",
+            "",
+            "Can only sell one type of drug at a",
+            "given time."
+        ],
+        "levels": [
+            "3"
+        ]
     }
 ]
