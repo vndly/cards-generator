@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[a4paper, margin=0mm]{geometry}
+\usepackage[absolute,overlay]{textpos}
+\TPoptions{absolute=true}
+\graphicspath{ {.} }
+
+\def\rowA{pusher3}
+\def\rowB{pusher3}
+\def\rowC{pusher3}
+
+\begin{document}
+
+    \begin{textblock*}{0mm}(-5.25mm, 0mm)
+        \includegraphics[width=70mm, height=99mm]{\rowA.png}
+    \end{textblock*}
+    
+    \begin{textblock*}{0mm}(64.75mm, 0mm)
+        \includegraphics[width=70mm, height=99mm]{\rowA.png}
+    \end{textblock*}
+    
+    \begin{textblock*}{0mm}(134.7mm, 0mm)
+        \includegraphics[width=70mm, height=99mm]{\rowA.png}
+    \end{textblock*}
+
+    \begin{textblock*}{0mm}(-5.25mm, 99mm)
+        \includegraphics[width=70mm, height=99mm]{\rowB.png}
+    \end{textblock*}
+    
+    \begin{textblock*}{0mm}(64.75mm, 99mm)
+        \includegraphics[width=70mm, height=99mm]{\rowB.png}
+    \end{textblock*}
+    
+    \begin{textblock*}{0mm}(134.7mm, 99mm)
+        \includegraphics[width=70mm, height=99mm]{\rowB.png}
+    \end{textblock*}
+
+    \begin{textblock*}{0mm}(-5.25mm, 198mm)
+        \includegraphics[width=70mm, height=99mm]{\rowC.png}
+    \end{textblock*}
+    
+    \begin{textblock*}{0mm}(64.75mm, 198mm)
+        \includegraphics[width=70mm, height=99mm]{\rowC.png}
+    \end{textblock*}
+    
+    \begin{textblock*}{0mm}(134.7mm, 198mm)
+        \includegraphics[width=70mm, height=99mm]{\rowC.png}
+    \end{textblock*}
+
+\end{document}

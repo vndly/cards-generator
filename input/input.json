@@ -1,0 +1,19 @@
+[
+    {
+        "name": "crew/pusher/pusher1.svg",
+        "title": "Pusher",
+        "border": "blue",
+        "image": "pusher",
+        "subtitle": "$100",
+        "description": [
+            "It can sell as many drugs as its level.",
+            "Can only sell one type of drug at a",
+            "given time."
+        ],
+        "levels": [
+            "1",
+            "2",
+            "3"
+        ]
+    }
+]
