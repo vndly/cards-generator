@@ -1,6 +1,6 @@
 [
     {
-        "name": "crew/pusher/pusher1.svg",
+        "name": "crew/pusher/pusher1",
         "title": "Pusher",
         "frame": "blue",
         "image": "pusher",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "name": "crew/pusher/pusher2.svg",
+        "name": "crew/pusher/pusher2",
         "title": "Pusher",
         "frame": "blue",
         "image": "pusher",
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "name": "crew/pusher/pusher3.svg",
+        "name": "crew/pusher/pusher3",
         "title": "Pusher",
         "frame": "blue",
         "image": "pusher",

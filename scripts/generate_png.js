@@ -4,7 +4,7 @@ const json = JSON.parse(fs.readFileSync('input/cards.json', 'utf-8'))
 
 for (const entry of json) {
     generateCard(
-        entry.name,
+        `${entry.name}.svg`,
         entry.title,
         cardFrame(entry.frame),
         cardImage(entry.image),
@@ -13,6 +13,13 @@ for (const entry of json) {
         entry.description,
         entry.levels,
     )
+
+    convertSvg2Png(entry.name)
+}
+
+function convertSvg2Png(name) {
+    const exec = require('child_process').exec
+    exec(`inkscape --export-width=375 --export-height=525 --export-type=png --export-filename="png/${name}.png" "svg/${name}.svg"`)
 }
 
 function base64File(path) {
