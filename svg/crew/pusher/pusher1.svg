@@ -12,7 +12,7 @@
 		</text>
 		<text style="font-style:normal;font-weight:normal;font-size:15.875px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458" x="31.888" y="315.66" id="text5024">
 			<tspan sodipodi:role="line" id="tspansubtitle" style="font-size:15.875px;stroke-width:0.26458" x="31.888" y="315.66">
-				$100
+				Tom
 			</tspan>
 		</text>
 		<text style="font-style:normal;font-weight:normal;font-size:14.8167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458" x="42.09" y="357" id="text1936">
@@ -21,7 +21,5 @@
 			<tspan sodipodi:role="line" style="font-size:14.8167px;stroke-width:0.26458" x="42" y="412.56" id="tspanline3">given time.</tspan>
 		</text>
 		<circle style="fill:#cbc1be;fill-opacity:1;stroke:#cabeb6;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" id="levelout1" cx="333.67" cy="42.348" r="10" /><text style="font-style:normal;font-weight:normal;font-size:15.8746px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264574" x="328.87" y="48.152" id="levelin1"><tspan sodipodi:role="line" id="tspanlevel1" style="font-size:15.8746px;stroke-width:0.264574" x="328.87" y="48.152">1</tspan></text>
-			<circle style="fill:#cbc1be;fill-opacity:1;stroke:#cabeb6;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" id="levelout2" cx="309.67" cy="42.348" r="10" /><text style="font-style:normal;font-weight:normal;font-size:15.8746px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264574" x="304.87" y="48.152" id="levelin2"><tspan sodipodi:role="line" id="tspanlevel1" style="font-size:15.8746px;stroke-width:0.264574" x="304.87" y="48.152">2</tspan></text>
-			<circle style="fill:#cbc1be;fill-opacity:1;stroke:#cabeb6;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" id="levelout3" cx="285.67" cy="42.348" r="10" /><text style="font-style:normal;font-weight:normal;font-size:15.8746px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264574" x="280.87" y="48.152" id="levelin3"><tspan sodipodi:role="line" id="tspanlevel1" style="font-size:15.8746px;stroke-width:0.264574" x="280.87" y="48.152">3</tspan></text>
 	</g>
 </svg>
