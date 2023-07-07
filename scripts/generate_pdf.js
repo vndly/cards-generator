@@ -27,6 +27,6 @@ function generatePage(page) {
 
 function generateFigure(figure, x, y) {
     return `\\begin{textblock*}{0mm}(-5.25mm, 0mm)
-        \\includegraphics[width=70mm, height=99mm]{figure}
+        \\includegraphics[width=70mm, height=99mm]{${figure}}
     \\end{textblock*}\n`
 }
