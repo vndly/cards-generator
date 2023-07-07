@@ -1,21 +1,26 @@
 const fs = require('fs')
 const template = fs.readFileSync('input/template.svg', 'utf-8')
-const json = JSON.parse(fs.readFileSync('input/cards.json', 'utf-8'))
 
-for (const entry of json) {
-    generateCard(
-        `${entry.name}.svg`,
-        entry.title,
-        cardFrame(entry.frame),
-        cardImage(entry.image),
-        entry.subtitle,
-        entry.cost ?? '',
-        entry.description,
-        entry.levels,
-    )
+fs.readdir('input/cards', (err, files) => {
+    files.forEach(file => {
+        const json = JSON.parse(fs.readFileSync(`input/cards/${file}`, 'utf-8'))
 
-    convertSvg2Png(entry.name)
-}
+        for (const entry of json) {
+            generateCard(
+                `${entry.name}.svg`,
+                entry.title,
+                cardFrame(entry.frame),
+                cardImage(entry.image),
+                entry.subtitle,
+                entry.cost ?? '',
+                entry.description,
+                entry.levels,
+            )
+
+            convertSvg2Png(entry.name)
+        }
+    })
+})
 
 function convertSvg2Png(name) {
     const exec = require('child_process').exec
