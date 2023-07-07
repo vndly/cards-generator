@@ -1,0 +1,12 @@
+[
+    {
+        "name": "weed",
+        "title": "Weed",
+        "frame": "default",
+        "image": "drugs/weed",
+        "subtitle": "Drug",
+        "cost": "$200#13",
+        "description": [],
+        "levels": []
+    }
+]

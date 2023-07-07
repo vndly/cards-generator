@@ -1,0 +1,12 @@
+[
+    {
+        "name": "meth",
+        "title": "Meth",
+        "frame": "default",
+        "image": "drugs/meth",
+        "subtitle": "Drug",
+        "cost": "$800#13",
+        "description": [],
+        "levels": []
+    }
+]

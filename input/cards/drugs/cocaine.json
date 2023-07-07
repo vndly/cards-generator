@@ -1,0 +1,12 @@
+[
+    {
+        "name": "cocaine",
+        "title": "Cocaine",
+        "frame": "default",
+        "image": "drugs/cocaine",
+        "subtitle": "Drug",
+        "cost": "$500#13",
+        "description": [],
+        "levels": []
+    }
+]
