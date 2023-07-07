@@ -2,23 +2,29 @@ const fs = require('fs')
 const template = fs.readFileSync('input/template.svg', 'utf-8')
 
 fs.readdir('input/cards', (err, files) => {
-    files.forEach(file => {
-        const json = JSON.parse(fs.readFileSync(`input/cards/${file}`, 'utf-8'))
+    files.forEach(file1 => {
+        fs.readdir(`input/cards/${file1}`, (err, files) => {
+            files.forEach(file2 => {
+                const json = JSON.parse(fs.readFileSync(`input/cards/${file1}/${file2}`, 'utf-8'))
 
-        for (const entry of json) {
-            generateCard(
-                `${entry.name}.svg`,
-                entry.title,
-                cardFrame(entry.frame),
-                cardImage(entry.image),
-                entry.subtitle,
-                entry.cost ?? '',
-                entry.description,
-                entry.levels,
-            )
+                for (const entry of json) {
+                    const path = `${file1}/${file2.replace('.json', '')}/${entry.name}`
 
-            convertSvg2Png(entry.name)
-        }
+                    generateCard(
+                        `${path}.svg`,
+                        entry.title,
+                        cardFrame(entry.frame),
+                        cardImage(entry.image),
+                        entry.subtitle,
+                        entry.cost ?? '',
+                        entry.description,
+                        entry.levels,
+                    )
+
+                    convertSvg2Png(path)
+                }
+            })
+        })
     })
 })
 
