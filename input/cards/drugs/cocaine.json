@@ -2,7 +2,7 @@
     {
         "name": "cocaine",
         "title": "Cocaine",
-        "frame": "default",
+        "frame": "artifact",
         "image": "drugs/cocaine",
         "subtitle": "Drug",
         "cost": "$500#13",

@@ -2,7 +2,7 @@
     {
         "name": "meth",
         "title": "Meth",
-        "frame": "default",
+        "frame": "artifact",
         "image": "drugs/meth",
         "subtitle": "Drug",
         "cost": "$800#13",

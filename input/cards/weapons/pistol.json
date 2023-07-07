@@ -2,8 +2,8 @@
     {
         "name": "pistol",
         "title": "Pistol",
-        "frame": "default",
-        "image": "drugs/pistol",
+        "frame": "artifact",
+        "image": "weapons/pistol",
         "subtitle": "Weapon",
         "cost": "$400#13",
         "description": [],
