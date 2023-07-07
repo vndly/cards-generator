@@ -1,6 +1,6 @@
 const fs = require('fs')
 const template = fs.readFileSync('input/template.svg', 'utf-8')
-const json = JSON.parse(fs.readFileSync('input/cards.json', 'utf-8'))
+const json = JSON.parse(fs.readFileSync('input/input.json', 'utf-8'))
 
 for (const entry of json) {
     generateCard(
