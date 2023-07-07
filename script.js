@@ -6,7 +6,7 @@ for (const entry of json) {
     generateCard(
         entry.name,
         entry.title,
-        cardBorder(entry.border),
+        cardFrame(entry.frame),
         cardImage(entry.image),
         entry.subtitle,
         entry.description,
@@ -20,8 +20,8 @@ function base64File(path) {
     return 'data:image/png;base64,' + content
 }
 
-function cardBorder(name) {
-    return base64File(`borders/${name}.png`)
+function cardFrame(name) {
+    return base64File(`frames/${name}.png`)
 }
 
 function cardImage(name) {
@@ -36,11 +36,11 @@ function descriptionLine(text, index) {
     return `<tspan sodipodi:role="line" style="font-size:14.8167px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
 }
 
-function generateCard(name, title, border, image, subtitle, description, levels) {
+function generateCard(name, title, frame, image, subtitle, description, levels) {
     let card = template
         .replace('{{TITLE}}', title)
         .replace('{{SUBTITLE}}', subtitle)
-        .replace('{{BORDER}}', border)
+        .replace('{{FRAME}}', frame)
         .replace('{{IMAGE}}', image)
 
     let descriptionTag = ''

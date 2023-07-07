@@ -2,7 +2,7 @@
     {
         "name": "crew/pusher/pusher1.svg",
         "title": "Pusher",
-        "border": "blue",
+        "frame": "blue",
         "image": "pusher",
         "subtitle": "$100",
         "description": [
