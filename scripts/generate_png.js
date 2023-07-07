@@ -108,7 +108,12 @@ function generateSvg(path, name, title, frame, image, subtitle, cost, descriptio
     }
 
     card = card.replace('{{LEVELS}}', levelsTag)
-    card = card.replace('{{COST}}', costChip(cost))
+
+    if (cost) {
+        card = card.replace('{{COST}}', costChip(cost))
+    } else {
+        card = card.replace('{{COST}}', '')
+    }
 
     try {
         fs.mkdirSync(`png/${path}`, { recursive: true })
