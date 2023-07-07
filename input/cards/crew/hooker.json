@@ -3,15 +3,13 @@
         "name": "hooker1",
         "title": "Hooker",
         "frame": "red",
-        "image": "hooker",
+        "image": "crew/hooker",
         "subtitle": "Crew",
         "cost": "$100#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "She can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            " client."
+            "She has a fixed income of $100 per client."
         ],
         "levels": [
             "1"
@@ -21,15 +19,13 @@
         "name": "hooker2",
         "title": "Hooker",
         "frame": "red",
-        "image": "hooker",
+        "image": "crew/hooker",
         "subtitle": "Crew",
         "cost": "$200#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "She can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            " client."
+            "She has a fixed income of $100 per client."
         ],
         "levels": [
             "2"
@@ -39,15 +35,13 @@
         "name": "hooker3",
         "title": "Hooker",
         "frame": "red",
-        "image": "hooker",
+        "image": "crew/hooker",
         "subtitle": "Crew",
         "cost": "$300#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "She can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            " client."
+            "She has a fixed income of $100 per client."
         ],
         "levels": [
             "3"

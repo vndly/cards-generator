@@ -74,7 +74,7 @@ function costChip(cost) {
 }
 
 function descriptionLine(text, index) {
-    return `<tspan sodipodi:role="line" style="font-size:14.8167px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
+    return `<tspan sodipodi:role="line" style="font-size:13px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
 }
 
 function generateCard(name, title, frame, image, subtitle, cost, description, levels) {

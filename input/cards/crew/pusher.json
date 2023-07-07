@@ -3,14 +3,14 @@
         "name": "pusher1",
         "title": "Pusher",
         "frame": "green",
-        "image": "pusher",
+        "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$100#13",
         "description": [
             "It can sell as many drugs as its level.",
             "",
-            "Can only sell one type of drug at a",
-            "given time."
+            "Can only sell one type of drug at a given",
+            "time."
         ],
         "levels": [
             "1"
@@ -20,14 +20,14 @@
         "name": "pusher2",
         "title": "Pusher",
         "frame": "green",
-        "image": "pusher",
+        "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$200#13",
         "description": [
             "It can sell as many drugs as its level.",
             "",
-            "Can only sell one type of drug at a",
-            "given time."
+            "Can only sell one type of drug at a given",
+            "time."
         ],
         "levels": [
             "2"
@@ -37,14 +37,14 @@
         "name": "pusher3",
         "title": "Pusher",
         "frame": "green",
-        "image": "pusher",
+        "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$300#13",
         "description": [
             "It can sell as many drugs as its level.",
             "",
-            "Can only sell one type of drug at a",
-            "given time."
+            "Can only sell one type of drug at a given",
+            "time."
         ],
         "levels": [
             "3"

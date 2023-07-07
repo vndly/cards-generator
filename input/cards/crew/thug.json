@@ -1,0 +1,21 @@
+[
+    {
+        "name": "thug1",
+        "title": "Thug",
+        "frame": "blue",
+        "image": "crew/thug",
+        "subtitle": "Crew",
+        "cost": "$100#13",
+        "description": [
+            "Protects your crew members from attacks",
+            "from other gangs and police patrols.",
+            "",
+            "They can extort businesses in their territory.",
+            "",
+            "They can only carry one weapon."
+        ],
+        "levels": [
+            "1"
+        ]
+    }
+]
