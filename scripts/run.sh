@@ -12,3 +12,5 @@ function convert()
 node ${BASE_DIR}/generate_svg.js
 
 convert "crew/pusher/pusher1"
+
+node ${BASE_DIR}/generate_pdf.js
