@@ -11,6 +11,9 @@ for (const page of json) {
 const pdf = template.replace('{{PAGES}}', pages)
 fs.writeFileSync(`output/document.tex`, pdf)
 
+//const exec = require('child_process').exec
+//exec(`pdflatex /../output/document.tex`)
+
 function generatePage(page) {
     let result = ''
 
