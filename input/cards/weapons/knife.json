@@ -2,7 +2,7 @@
     {
         "name": "knife",
         "title": "Knife",
-        "frame": "artifact",
+        "frame": "black",
         "image": "weapons/knife",
         "subtitle": "Weapon",
         "cost": "$200#13",

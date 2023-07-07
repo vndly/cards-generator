@@ -2,7 +2,7 @@
     {
         "name": "grenade",
         "title": "Grenade",
-        "frame": "artifact",
+        "frame": "black",
         "image": "weapons/grenade",
         "subtitle": "Weapon",
         "cost": "$600#13",
