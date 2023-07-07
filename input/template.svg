@@ -19,5 +19,6 @@
 			{{DESCRIPTION}}
 		</text>
 		{{LEVELS}}
+		{{COST}}
 	</g>
 </svg>
