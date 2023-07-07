@@ -1,0 +1,12 @@
+[
+    {
+        "name": "grenade",
+        "title": "Grenade",
+        "frame": "default",
+        "image": "drugs/grenade",
+        "subtitle": "Weapon",
+        "cost": "$600#13",
+        "description": [],
+        "levels": []
+    }
+]

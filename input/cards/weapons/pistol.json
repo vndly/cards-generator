@@ -1,0 +1,12 @@
+[
+    {
+        "name": "pistol",
+        "title": "Pistol",
+        "frame": "default",
+        "image": "drugs/pistol",
+        "subtitle": "Weapon",
+        "cost": "$400#13",
+        "description": [],
+        "levels": []
+    }
+]
