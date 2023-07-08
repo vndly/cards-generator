@@ -1,5 +1,5 @@
 const fs = require('fs')
-const template = fs.readFileSync('input/template.tex', 'utf-8')
+const template = fs.readFileSync('input/template_document.tex', 'utf-8')
 const json = JSON.parse(fs.readFileSync('input/pages.json', 'utf-8'))
 
 let pages = ''

@@ -1,5 +1,5 @@
 const fs = require('fs')
-const template = fs.readFileSync('input/template.svg', 'utf-8')
+const template = fs.readFileSync('input/template_card.svg', 'utf-8')
 
 fs.readdir('input/cards', (err, files) => {
     files.forEach(file1 => {
@@ -75,7 +75,7 @@ function costChip(cost) {
 }
 
 function descriptionLine(text, index) {
-    return `<tspan sodipodi:role="line" style="font-size:13px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
+    return `<tspan sodipodi:role="line" style="font-size:14px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
 }
 
 function generateSvg(path, name, title, frame, image, subtitle, cost, description, levels) {
