@@ -17,33 +17,20 @@ fs.writeFileSync(`output/document.tex`, pdf)
 function generatePage(page) {
     let result = ''
 
-    for (const row of page) {
+    for (const images of page) {
         if (result) {
-            result += '\n'
+            result += '\n\n\\newpage\n\n'
         }
 
-        result += generateRow(row)
+        result += generateFigure(images)
     }
 
     return result
 }
 
-function generateRow(row) {
-    let result = ''
-
-    for (const figure of row) {
-        if (result) {
-            result += '\n'
-        }
-
-        result += generateFigure(figure, 0, 0)
-    }
-
-    return result
-}
-
-function generateFigure(figure, x, y) {
-    return `\t\\begin{textblock*}{0mm}(-5.25mm, 0mm)
-        \\includegraphics[width=70mm, height=99mm]{../png/${figure}}
-    \\end{textblock*}\n`
+function generateFigure(images) {
+    return `\\begin{center}
+\t\\centering
+\t\\includegraphics[width=190.5mm,height=266.7mm]{front.png}
+\\end{center}`
 }
