@@ -1,0 +1,53 @@
+[
+    {
+        "name": "snitch1",
+        "title": "Snitch",
+        "frame": "land",
+        "image": "other/snitch",
+        "subtitle": "Complement",
+        "cost": "$300#13",
+        "description": [
+            "If you receive a gang raid, their power is",
+            " reduced by 1.",
+            "",
+            "The card is discarded once used."
+        ],
+        "levels": [
+            "1"
+        ]
+    },
+    {
+        "name": "snitch2",
+        "title": "Snitch",
+        "frame": "land",
+        "image": "other/snitch",
+        "subtitle": "Complement",
+        "cost": "$600#13",
+        "description": [
+            "If you receive a gang raid, their power is",
+            " reduced by 2.",
+            "",
+            "The card is discarded once used."
+        ],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "snitch3",
+        "title": "Snitch",
+        "frame": "land",
+        "image": "other/snitch",
+        "subtitle": "Complement",
+        "cost": "$900#13",
+        "description": [
+            "If you receive a gang raid, their power is",
+            " reduced by 3.",
+            "",
+            "The card is discarded once used."
+        ],
+        "levels": [
+            "3"
+        ]
+    }
+]
