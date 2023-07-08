@@ -11,9 +11,6 @@ for (const page of json) {
 const pdf = template.replace('{{PAGES}}', pages)
 fs.writeFileSync(`output/document.tex`, pdf)
 
-const exec = require('child_process').exec
-exec(`pdflatex /../output/document.tex`)
-
 function generatePage(page) {
     let result = ''
 
@@ -31,6 +28,6 @@ function generatePage(page) {
 function generateFigure(images) {
     return `\\begin{center}
 \t\\centering
-\t\\includegraphics[width=190.5mm,height=266.7mm]{front.png}
+\t\\includegraphics[width=190.5mm,height=266.7mm]{output/images/front.png}
 \\end{center}`
 }
