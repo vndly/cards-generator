@@ -4,7 +4,7 @@
         "title": "Snitch",
         "frame": "land",
         "image": "other/snitch",
-        "subtitle": "Complement",
+        "subtitle": "Counter",
         "cost": "$300#13",
         "description": [
             "If you receive a gang raid, their power is",
@@ -21,7 +21,7 @@
         "title": "Snitch",
         "frame": "land",
         "image": "other/snitch",
-        "subtitle": "Complement",
+        "subtitle": "Counter",
         "cost": "$600#13",
         "description": [
             "If you receive a gang raid, their power is",
@@ -38,7 +38,7 @@
         "title": "Snitch",
         "frame": "land",
         "image": "other/snitch",
-        "subtitle": "Complement",
+        "subtitle": "Counter",
         "cost": "$900#13",
         "description": [
             "If you receive a gang raid, their power is",

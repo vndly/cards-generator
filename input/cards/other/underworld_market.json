@@ -1,0 +1,56 @@
+[
+    {
+        "name": "underworld_market1",
+        "title": "Underworld Market",
+        "frame": "land",
+        "image": "other/underworld_market",
+        "subtitle": "Bonus",
+        "cost": "$1000#13",
+        "description": [
+            "Purchasing the maximum amount of",
+            "drugs or weapons costs $100 less.",
+            "",
+            "Selling drugs or weapons gives $100",
+            "extra each."
+        ],
+        "levels": [
+            "1"
+        ]
+    },
+    {
+        "name": "underworld_market2",
+        "title": "Underworld Market",
+        "frame": "land",
+        "image": "other/underworld_market",
+        "subtitle": "Bonus",
+        "cost": "$2000#13",
+        "description": [
+            "Purchasing the maximum amount of",
+            "drugs or weapons costs $200 less.",
+            "",
+            "Selling drugs or weapons gives $200",
+            "extra each."
+        ],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "underworld_market3",
+        "title": "Underworld Market",
+        "frame": "land",
+        "image": "other/underworld_market",
+        "subtitle": "Bonus",
+        "cost": "$3000#13",
+        "description": [
+            "Purchasing the maximum amount of",
+            "drugs or weapons costs $300 less.",
+            "",
+            "Selling drugs or weapons gives $300",
+            "extra each."
+        ],
+        "levels": [
+            "3"
+        ]
+    }
+]
