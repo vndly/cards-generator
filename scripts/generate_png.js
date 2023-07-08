@@ -41,7 +41,7 @@ function base64File(path) {
 }
 
 function cardFrame(name) {
-    return base64File(`frames/${name}.png`)
+    return base64File(`images/frames/${name}.png`)
 }
 
 function cardImage(name) {
