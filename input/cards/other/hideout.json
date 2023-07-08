@@ -1,0 +1,50 @@
+[
+    {
+        "name": "hideout2",
+        "title": "Hideout",
+        "frame": "land",
+        "image": "other/hideout",
+        "subtitle": "Complement",
+        "cost": "$200#13",
+        "description": [
+            "If its power is bigger than the attacker,",
+            "half of the money, drugs and weapons are",
+            "safe."
+        ],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "hideout3",
+        "title": "Hideout",
+        "frame": "land",
+        "image": "other/hideout",
+        "subtitle": "Complement",
+        "cost": "$300#13",
+        "description": [
+            "If its power is bigger than the attacker,",
+            "half of the money, drugs and weapons are",
+            "safe."
+        ],
+        "levels": [
+            "3"
+        ]
+    },
+    {
+        "name": "hideout4",
+        "title": "Hideout",
+        "frame": "land",
+        "image": "other/hideout",
+        "subtitle": "Complement",
+        "cost": "$400#13",
+        "description": [
+            "If its power is bigger than the attacker,",
+            "half of the money, drugs and weapons are",
+            "safe."
+        ],
+        "levels": [
+            "4"
+        ]
+    }
+]
