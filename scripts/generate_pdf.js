@@ -44,6 +44,9 @@ function generatePageImage(images, index) {
     fs.writeFileSync(`output/temp/page${index}.svg`, content)
     convertSvg2Png(`page${index}`)
 
+    const exec = require('child_process').exec
+    exec(`convert output/temp/page${index}.png -colorspace Gray output/temp/page${index}.png`)
+
     return `page${index}.png`
 }
 
