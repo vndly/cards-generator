@@ -1,0 +1,15 @@
+[
+    {
+        "name": "mission1",
+        "title": "Car theft",
+        "frame": "gold",
+        "image": "missions/car_theft",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "2"
+        ]
+    }
+]
