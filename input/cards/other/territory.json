@@ -73,7 +73,8 @@
         "subtitle": "Resource",
         "description": [],
         "levels": [
-            "16"
+            "6",
+            "1"
         ]
     },
     {
@@ -84,7 +85,8 @@
         "subtitle": "Resource",
         "description": [],
         "levels": [
-            "21"
+            "2",
+            "1"
         ]
     },
     {
@@ -95,7 +97,8 @@
         "subtitle": "Resource",
         "description": [],
         "levels": [
-            "32"
+            "3",
+            "2"
         ]
     },
     {
@@ -106,7 +109,8 @@
         "subtitle": "Resource",
         "description": [],
         "levels": [
-            "43"
+            "4",
+            "3"
         ]
     },
     {
@@ -117,7 +121,8 @@
         "subtitle": "Resource",
         "description": [],
         "levels": [
-            "54"
+            "5",
+            "4"
         ]
     },
     {
@@ -128,7 +133,8 @@
         "subtitle": "Resource",
         "description": [],
         "levels": [
-            "65"
+            "6",
+            "5"
         ]
     }
 ]
