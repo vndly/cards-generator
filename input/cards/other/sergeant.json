@@ -1,0 +1,20 @@
+[
+    {
+        "name": "sergeant",
+        "title": "Sergeant",
+        "frame": "land",
+        "image": "other/sergeant",
+        "subtitle": "Countermove",
+        "cost": "$1000#12",
+        "description": [
+            "Police patrols don't affect the player.",
+            "",
+            "The player must pay a fixed salary of",
+            "$100 at the beginning of each turn.",
+            "",
+            "The player can get rid of the sergeant",
+            "right after the last payment."
+        ],
+        "levels": []
+    }
+]
