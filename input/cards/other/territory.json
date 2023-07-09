@@ -1,0 +1,11 @@
+[
+    {
+        "name": "territory",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": []
+    }
+]
