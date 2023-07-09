@@ -1,5 +1,18 @@
 [
     {
+        "name": "police_patrol",
+        "title": "Police Patrol",
+        "frame": "land",
+        "image": "other/police",
+        "subtitle": "Law enforcement",
+        "description": [
+            "The player rolls a die to know if the",
+            "police patrol stops in one of their",
+            "territories."
+        ],
+        "levels": []
+    },
+    {
         "name": "police_station",
         "title": "Police Station",
         "frame": "gold",
