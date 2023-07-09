@@ -1,0 +1,50 @@
+[
+    {
+        "name": "gang_raid1",
+        "title": "Gang Raid",
+        "frame": "land",
+        "image": "other/gang_raid",
+        "subtitle": "Event",
+        "description": [
+            "They attack the player's headquarters",
+            "and if they have more power than the",
+            "thugs, they take half of the money and",
+            "drugs."
+        ],
+        "levels": [
+            "1"
+        ]
+    },
+    {
+        "name": "gang_raid2",
+        "title": "Gang Raid",
+        "frame": "land",
+        "image": "other/gang_raid",
+        "subtitle": "Event",
+        "description": [
+            "They attack the player's headquarters",
+            "and if they have more power than the",
+            "thugs, they take half of the money and",
+            "drugs."
+        ],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "gang_raid3",
+        "title": "Gang Raid",
+        "frame": "land",
+        "image": "other/gang_raid",
+        "subtitle": "Event",
+        "description": [
+            "They attack the player's headquarters",
+            "and if they have more power than the",
+            "thugs, they take half of the money and",
+            "drugs."
+        ],
+        "levels": [
+            "3"
+        ]
+    }
+]
