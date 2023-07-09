@@ -49,5 +49,56 @@
         "levels": [
             "3"
         ]
+    },
+    {
+        "name": "pusher4",
+        "title": "Pusher",
+        "frame": "green",
+        "image": "crew/pusher",
+        "subtitle": "Crew",
+        "cost": "$400#13",
+        "description": [
+            "It can sell as many drugs as its level.",
+            "",
+            "Can only sell one type of drug at a given",
+            "time."
+        ],
+        "levels": [
+            "4"
+        ]
+    },
+    {
+        "name": "pusher5",
+        "title": "Pusher",
+        "frame": "green",
+        "image": "crew/pusher",
+        "subtitle": "Crew",
+        "cost": "$500#13",
+        "description": [
+            "It can sell as many drugs as its level.",
+            "",
+            "Can only sell one type of drug at a given",
+            "time."
+        ],
+        "levels": [
+            "5"
+        ]
+    },
+    {
+        "name": "pusher6",
+        "title": "Pusher",
+        "frame": "green",
+        "image": "crew/pusher",
+        "subtitle": "Crew",
+        "cost": "$600#13",
+        "description": [
+            "It can sell as many drugs as its level.",
+            "",
+            "Can only sell one type of drug at a given",
+            "time."
+        ],
+        "levels": [
+            "6"
+        ]
     }
 ]
