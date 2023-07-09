@@ -11,5 +11,122 @@
         "levels": [
             "2"
         ]
+    },
+    {
+        "name": "mission2",
+        "title": "Jewelry robbery",
+        "frame": "gold",
+        "image": "missions/jewelry_robbery",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "mission3",
+        "title": "Smuggling",
+        "frame": "gold",
+        "image": "missions/smuggling",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "mission4",
+        "title": "Art theft",
+        "frame": "gold",
+        "image": "missions/art_theft",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "3"
+        ]
+    },
+    {
+        "name": "mission5",
+        "title": "Cargo shipment heist",
+        "frame": "gold",
+        "image": "missions/cargo_shipment_heist",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "3"
+        ]
+    },
+    {
+        "name": "mission6",
+        "title": "Bank robbery",
+        "frame": "gold",
+        "image": "missions/bank_robbery",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "4"
+        ]
+    },
+    {
+        "name": "mission7",
+        "title": "Casino heist",
+        "frame": "gold",
+        "image": "missions/casino_heist",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "4"
+        ]
+    },
+    {
+        "name": "mission8",
+        "title": "Kidnapping",
+        "frame": "gold",
+        "image": "missions/kidnapping",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "4"
+        ]
+    },
+    {
+        "name": "mission9",
+        "title": "Armored truck assault",
+        "frame": "gold",
+        "image": "missions/armored_truck_assault",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "5"
+        ]
+    },
+    {
+        "name": "mission10",
+        "title": "Contract killing",
+        "frame": "gold",
+        "image": "missions/contract_killing",
+        "subtitle": "Mission",
+        "description": [
+            "Required power:"
+        ],
+        "levels": [
+            "5"
+        ]
     }
 ]
