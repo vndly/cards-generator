@@ -1,0 +1,20 @@
+[
+    {
+        "name": "getaway_car",
+        "title": "Getaway Car",
+        "frame": "land",
+        "image": "other/getaway_car",
+        "subtitle": "Escape",
+        "cost": "$500#13",
+        "description": [
+            "The player's crew escape with all the",
+            "money, drugs and weapons but the",
+            "player loses the territory.",
+            "",
+            "It can be moved between territories.",
+            "",
+            "The card is discarded after use."
+        ],
+        "levels": []
+    }
+]
