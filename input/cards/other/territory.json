@@ -1,11 +1,134 @@
 [
     {
-        "name": "territory",
+        "name": "territory1",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
         "description": [],
-        "levels": []
+        "levels": [
+            "1"
+        ]
+    },
+    {
+        "name": "territory2",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "territory3",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "3"
+        ]
+    },
+    {
+        "name": "territory4",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "4"
+        ]
+    },
+    {
+        "name": "territory5",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "5"
+        ]
+    },
+    {
+        "name": "territory6",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "6"
+        ]
+    },
+    {
+        "name": "territory16",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "16"
+        ]
+    },
+    {
+        "name": "territory21",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "21"
+        ]
+    },
+    {
+        "name": "territory32",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "32"
+        ]
+    },
+    {
+        "name": "territory43",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "43"
+        ]
+    },
+    {
+        "name": "territory54",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "54"
+        ]
+    },
+    {
+        "name": "territory65",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "65"
+        ]
     }
 ]
