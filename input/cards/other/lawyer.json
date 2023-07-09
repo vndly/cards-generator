@@ -1,0 +1,22 @@
+[
+    {
+        "name": "lawyer1",
+        "title": "Lawyer",
+        "frame": "land",
+        "image": "other/lawyer",
+        "subtitle": "Countermove",
+        "cost": "$100#13",
+        "description": [
+            "Reduces the sentence if the player's",
+            "crew is sent to jail.",
+            "",
+            "It can only be used at the moment the",
+            "crew is being arrested.",
+            "",
+            "The card is discarded after use."
+        ],
+        "levels": [
+            "1"
+        ]
+    }
+]

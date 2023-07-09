@@ -14,5 +14,37 @@
         "levels": [
             "1"
         ]
+    },
+    {
+        "name": "snitch2",
+        "title": "Snitch",
+        "frame": "land",
+        "image": "other/snitch",
+        "subtitle": "Countermove",
+        "cost": "$600#13",
+        "description": [
+            "Reduces the attack power of a gang raid.",
+            "",
+            "The card is discarded once used."
+        ],
+        "levels": [
+            "2"
+        ]
+    },
+    {
+        "name": "snitch3",
+        "title": "Snitch",
+        "frame": "land",
+        "image": "other/snitch",
+        "subtitle": "Countermove",
+        "cost": "$900#13",
+        "description": [
+            "Reduces the attack power of a gang raid.",
+            "",
+            "The card is discarded once used."
+        ],
+        "levels": [
+            "3"
+        ]
     }
 ]
