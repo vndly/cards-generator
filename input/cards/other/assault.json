@@ -5,7 +5,6 @@
         "frame": "land",
         "image": "other/assault",
         "subtitle": "Attack",
-        "cost": "$500#13",
         "description": [
             "The player can attack another player's",
             "territory using their thugs.",
