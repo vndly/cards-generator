@@ -1,0 +1,21 @@
+[
+    {
+        "name": "safe_house",
+        "title": "Safe House",
+        "frame": "land",
+        "image": "other/safe_house",
+        "subtitle": "Escape",
+        "cost": "$500#13",
+        "description": [
+            "The crew hides in it but the police",
+            "confiscate the money, drugs and",
+            "weapons but the player keeps the",
+            "territory.",
+            "",
+            "Once placed it cannot be moved.",
+            "",
+            "The card is discarded after use."
+        ],
+        "levels": []
+    }
+]
