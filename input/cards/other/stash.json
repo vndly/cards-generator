@@ -1,0 +1,101 @@
+[
+    {
+        "name": "stash1",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives $500"
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash2",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives $1000"
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash3",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives $1500"
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash4",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives 1 weed"
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash5",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives 1 cocaine"
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash6",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives 1 meth"
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash7",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives 1 knife"
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash8",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives 1 pistol"
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash9",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives 1 grenade"
+        ],
+        "levels": []
+    }
+]
