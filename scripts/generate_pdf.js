@@ -25,7 +25,7 @@ function base64File(path) {
 }
 
 function convertSvg2Png(name) {
-    const exec = require('child_process').exec
+    const exec = require('child_process').execSync
     exec(`inkscape --export-width=1905 --export-height=2667 --export-type=png --export-filename="output/temp/${name}.png" "output/temp/${name}.svg"`)
 }
 
@@ -44,7 +44,7 @@ function generatePageImage(images, index) {
     fs.writeFileSync(`output/temp/page${index}.svg`, content)
     convertSvg2Png(`page${index}`)
 
-    const exec = require('child_process').exec
+    const exec = require('child_process').execSync
     exec(`convert output/temp/page${index}.png -colorspace Gray output/temp/page${index}.png`)
 
     return `page${index}.png`

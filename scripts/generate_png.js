@@ -30,7 +30,7 @@ fs.readdir('input/cards', (err, files) => {
 })
 
 function convertSvg2Png(name) {
-    const exec = require('child_process').exec
+    const exec = require('child_process').execSync
     exec(`inkscape --export-width=375 --export-height=525 --export-type=png --export-filename="png/${name}.png" "svg/${name}.svg"`)
 }
 
