@@ -58,9 +58,9 @@
         "weapons/knife/knife.png",
         "weapons/knife/knife.png",
         "weapons/knife/knife.png",
-        "weapons/pistol/pistol.png",
-        "weapons/pistol/pistol.png",
-        "weapons/pistol/pistol.png",
+        "weapons/knife/knife.png",
+        "weapons/knife/knife.png",
+        "weapons/knife/knife.png",
         "weapons/pistol/pistol.png",
         "weapons/pistol/pistol.png",
         "weapons/pistol/pistol.png"
@@ -73,8 +73,8 @@
         "weapons/pistol/pistol.png",
         "weapons/pistol/pistol.png",
         "weapons/pistol/pistol.png",
-        "weapons/grenade/grenade.png",
-        "weapons/grenade/grenade.png"
+        "weapons/pistol/pistol.png",
+        "weapons/pistol/pistol.png"
     ],
     [
         "weapons/grenade/grenade.png",
@@ -90,12 +90,12 @@
     [
         "weapons/grenade/grenade.png",
         "weapons/grenade/grenade.png",
+        "weapons/grenade/grenade.png",
         "crew/pusher/pusher1.png",
         "crew/pusher/pusher1.png",
         "crew/pusher/pusher1.png",
         "crew/pusher/pusher1.png",
         "crew/pusher/pusher1.png",
-        "crew/pusher/pusher2.png",
         "crew/pusher/pusher2.png"
     ],
     [
@@ -103,17 +103,6 @@
         "crew/pusher/pusher2.png",
         "crew/pusher/pusher2.png",
         "crew/pusher/pusher2.png",
-        "crew/pusher/pusher2.png",
-        "crew/pusher/pusher2.png",
-        "crew/pusher/pusher2.png",
-        "crew/pusher/pusher2.png",
-        "crew/pusher/pusher2.png"
-    ],
-    [
-        "crew/pusher/pusher2.png",
-        "crew/pusher/pusher2.png",
-        "crew/pusher/pusher3.png",
-        "crew/pusher/pusher3.png",
         "crew/pusher/pusher3.png",
         "crew/pusher/pusher3.png",
         "crew/pusher/pusher3.png",
@@ -121,12 +110,23 @@
         "crew/pusher/pusher3.png"
     ],
     [
-        "crew/pusher/pusher3.png",
-        "crew/pusher/pusher3.png",
-        "crew/pusher/pusher3.png",
-        "crew/pusher/pusher3.png",
-        "crew/pusher/pusher3.png",
-        "crew/pusher/pusher3.png",
+        "crew/pusher/pusher4.png",
+        "crew/pusher/pusher4.png",
+        "crew/pusher/pusher4.png",
+        "crew/pusher/pusher4.png",
+        "crew/pusher/pusher4.png",
+        "crew/pusher/pusher5.png",
+        "crew/pusher/pusher5.png",
+        "crew/pusher/pusher5.png",
+        "crew/pusher/pusher5.png"
+    ],
+    [
+        "crew/pusher/pusher5.png",
+        "crew/pusher/pusher6.png",
+        "crew/pusher/pusher6.png",
+        "crew/pusher/pusher6.png",
+        "crew/pusher/pusher6.png",
+        "crew/pusher/pusher6.png",
         "crew/hooker/hooker1.png",
         "crew/hooker/hooker1.png",
         "crew/hooker/hooker1.png"
@@ -134,33 +134,11 @@
     [
         "crew/hooker/hooker1.png",
         "crew/hooker/hooker1.png",
-        "crew/hooker/hooker1.png",
-        "crew/hooker/hooker1.png",
-        "crew/hooker/hooker1.png",
-        "crew/hooker/hooker1.png",
-        "crew/hooker/hooker1.png",
-        "crew/hooker/hooker1.png",
-        "crew/hooker/hooker1.png"
-    ],
-    [
-        "crew/hooker/hooker1.png",
         "crew/hooker/hooker2.png",
         "crew/hooker/hooker2.png",
         "crew/hooker/hooker2.png",
         "crew/hooker/hooker2.png",
         "crew/hooker/hooker2.png",
-        "crew/hooker/hooker2.png",
-        "crew/hooker/hooker2.png",
-        "crew/hooker/hooker2.png"
-    ],
-    [
-        "crew/hooker/hooker2.png",
-        "crew/hooker/hooker2.png",
-        "crew/hooker/hooker2.png",
-        "crew/hooker/hooker2.png",
-        "crew/hooker/hooker2.png",
-        "crew/hooker/hooker3.png",
-        "crew/hooker/hooker3.png",
         "crew/hooker/hooker3.png",
         "crew/hooker/hooker3.png"
     ],
@@ -168,11 +146,22 @@
         "crew/hooker/hooker3.png",
         "crew/hooker/hooker3.png",
         "crew/hooker/hooker3.png",
-        "crew/hooker/hooker3.png",
-        "crew/hooker/hooker3.png",
-        "crew/hooker/hooker3.png",
-        "crew/hooker/hooker3.png",
-        "crew/hooker/hooker3.png",
-        "crew/hooker/hooker3.png"
+        "crew/hooker/hooker4.png",
+        "crew/hooker/hooker4.png",
+        "crew/hooker/hooker4.png",
+        "crew/hooker/hooker4.png",
+        "crew/hooker/hooker4.png",
+        "crew/hooker/hooker5.png"
+    ],
+    [
+        "crew/hooker/hooker5.png",
+        "crew/hooker/hooker5.png",
+        "crew/hooker/hooker5.png",
+        "crew/hooker/hooker5.png",
+        "crew/hooker/hooker6.png",
+        "crew/hooker/hooker6.png",
+        "crew/hooker/hooker6.png",
+        "crew/hooker/hooker6.png",
+        "crew/hooker/hooker6.png"
     ]
 ]
