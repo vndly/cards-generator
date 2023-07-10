@@ -7,11 +7,9 @@
         "subtitle": "Crew",
         "cost": "$100#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "Can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            "client."
+            "Has a fixed income of $100 per client."
         ],
         "levels": [
             "1"
@@ -25,11 +23,9 @@
         "subtitle": "Crew",
         "cost": "$200#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "Can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            "client."
+            "Has a fixed income of $100 per client."
         ],
         "levels": [
             "2"
@@ -43,11 +39,9 @@
         "subtitle": "Crew",
         "cost": "$300#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "Can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            "client."
+            "Has a fixed income of $100 per client."
         ],
         "levels": [
             "3"
@@ -61,11 +55,9 @@
         "subtitle": "Crew",
         "cost": "$400#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "Can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            "client."
+            "Has a fixed income of $100 per client."
         ],
         "levels": [
             "4"
@@ -79,11 +71,9 @@
         "subtitle": "Crew",
         "cost": "$500#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "Can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            "client."
+            "Has a fixed income of $100 per client."
         ],
         "levels": [
             "5"
@@ -97,11 +87,9 @@
         "subtitle": "Crew",
         "cost": "$600#13",
         "description": [
-            "She can have as many clients as her",
-            "level.",
+            "Can have as many clients as her level.",
             "",
-            "She has a fixed income of $100 per",
-            "client."
+            "Has a fixed income of $100 per client."
         ],
         "levels": [
             "6"
