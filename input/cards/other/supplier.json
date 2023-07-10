@@ -12,7 +12,7 @@
         "levels": []
     },
     {
-        "name": "supplier_weapons",
+        "name": "supplier_weapon",
         "title": "Arsenal Depot",
         "frame": "land",
         "image": "other/supplier_weapon",
