@@ -1,9 +1,9 @@
 [
     {
-        "name": "underworld_market",
-        "title": "Underworld Market",
+        "name": "black_market",
+        "title": "Black Market",
         "frame": "land",
-        "image": "other/underworld_market",
+        "image": "other/black_market",
         "subtitle": "Perk",
         "cost": "$1,000#11",
         "description": [
@@ -11,7 +11,7 @@
             "drugs or weapons costs $100 less.",
             "",
             "Selling drugs or weapons gives $100",
-            "extra each."
+            "extra in each territory that is sold."
         ],
         "levels": []
     }
