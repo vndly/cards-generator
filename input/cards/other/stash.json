@@ -6,7 +6,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives $500"
+            "The player receives $500."
         ],
         "levels": []
     },
@@ -17,7 +17,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives $1000"
+            "The player receives $1000."
         ],
         "levels": []
     },
@@ -28,7 +28,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives $1500"
+            "The player receives $1500."
         ],
         "levels": []
     },
@@ -39,7 +39,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives 1 weed"
+            "The player receives 1 weed."
         ],
         "levels": []
     },
@@ -50,7 +50,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives 1 cocaine"
+            "The player receives 1 cocaine."
         ],
         "levels": []
     },
@@ -61,7 +61,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives 1 meth"
+            "The player receives 1 meth."
         ],
         "levels": []
     },
@@ -72,7 +72,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives 1 knife"
+            "The player receives 1 knife."
         ],
         "levels": []
     },
@@ -83,7 +83,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives 1 pistol"
+            "The player receives 1 pistol."
         ],
         "levels": []
     },
@@ -94,7 +94,40 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives 1 grenade"
+            "The player receives 1 grenade."
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash10",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives $1500 and 1 weed."
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash11",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives $1500 and 1 cocaine."
+        ],
+        "levels": []
+    },
+    {
+        "name": "stash12",
+        "title": "Stash",
+        "frame": "land",
+        "image": "other/stash",
+        "subtitle": "Perk",
+        "description": [
+            "The player receives $1500 and 1 meth."
         ],
         "levels": []
     }
