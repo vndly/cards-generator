@@ -5,9 +5,7 @@
         "frame": "gold",
         "image": "missions/car_theft",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "2"
         ]
@@ -18,9 +16,7 @@
         "frame": "gold",
         "image": "missions/jewelry_robbery",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "2"
         ]
@@ -31,9 +27,7 @@
         "frame": "gold",
         "image": "missions/smuggling",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "2"
         ]
@@ -44,9 +38,7 @@
         "frame": "gold",
         "image": "missions/art_theft",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "3"
         ]
@@ -57,9 +49,7 @@
         "frame": "gold",
         "image": "missions/cargo_shipment_heist",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "3"
         ]
@@ -70,9 +60,7 @@
         "frame": "gold",
         "image": "missions/bank_robbery",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "4"
         ]
@@ -83,9 +71,7 @@
         "frame": "gold",
         "image": "missions/casino_heist",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "4"
         ]
@@ -96,9 +82,7 @@
         "frame": "gold",
         "image": "missions/kidnapping",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "4"
         ]
@@ -109,9 +93,7 @@
         "frame": "gold",
         "image": "missions/armored_truck_assault",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "5"
         ]
@@ -122,9 +104,7 @@
         "frame": "gold",
         "image": "missions/contract_killing",
         "subtitle": "Mission",
-        "description": [
-            "Required power:"
-        ],
+        "description": [],
         "levels": [
             "5"
         ]
