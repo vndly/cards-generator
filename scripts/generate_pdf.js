@@ -8,6 +8,8 @@ let pages = ''
 for (let i = 0; i < json.length; i++) {
     const page = json[i]
 
+    console.log(`Generating page: ${i + 1}...`);
+
     if (pages) {
         pages += '\n\n\\newpage\n\n'
     }

@@ -10,6 +10,8 @@ fs.readdir('input/cards', (err, files) => {
                 for (const entry of json) {
                     const path = `${file1}/${file2.replace('.json', '')}/`
 
+                    console.log(`Generating card: ${entry.name}...`);
+
                     generateSvg(
                         path,
                         `${entry.name}.svg`,
