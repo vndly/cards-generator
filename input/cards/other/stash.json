@@ -17,7 +17,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives $1000."
+            "The player receives $1,000."
         ],
         "levels": []
     },
@@ -28,7 +28,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives $1500."
+            "The player receives $1,500."
         ],
         "levels": []
     },
@@ -105,7 +105,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives $1500 and 1 weed."
+            "The player receives $1,500 and 1 weed."
         ],
         "levels": []
     },
@@ -116,7 +116,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives $1500 and 1 cocaine."
+            "The player receives $1,500 and 1 cocaine."
         ],
         "levels": []
     },
@@ -127,7 +127,7 @@
         "image": "other/stash",
         "subtitle": "Perk",
         "description": [
-            "The player receives $1500 and 1 meth."
+            "The player receives $1,500 and 1 meth."
         ],
         "levels": []
     }
