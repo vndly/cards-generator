@@ -345,22 +345,33 @@
         "other/getaway_car/getaway_car.png",
         "other/getaway_car/getaway_car.png",
         "other/getaway_car/getaway_car.png",
-        "other/factions/bratva/bratva.png",
-        "other/factions/cosa_nostra/cosa_nostra.png",
-        "other/factions/the_cartel/the_cartel.png",
-        "other/factions/the_westies/the_westies.png",
-        "other/factions/triads/triads.png",
-        "other/factions/yakuza/yakuza.png"
+        "factions/bratva/bratva.png",
+        "factions/cosa_nostra/cosa_nostra.png",
+        "factions/the_cartel/the_cartel.png",
+        "factions/the_westies/the_westies.png",
+        "factions/triads/triads.png",
+        "factions/yakuza/yakuza.png"
     ],
     [
-        "other/police/police_station.png",
-        "other/police/police_station.png",
-        "other/police/police_station.png",
-        "other/police/police_station.png",
-        "other/police/police_station.png",
-        "other/police/police_station.png",
-        "other/police/police_station.png",
-        "other/police/police_station.png",
-        "other/police/police_station.png"
+        "other/missions/mission1.png",
+        "other/missions/mission2.png",
+        "other/missions/mission3.png",
+        "other/missions/mission4.png",
+        "other/missions/mission5.png",
+        "other/missions/mission6.png",
+        "other/missions/mission7.png",
+        "other/missions/mission8.png",
+        "other/missions/mission9.png"
+    ],
+    [
+        "other/missions/mission10.png",
+        "drugs/weed/weed.png",
+        "drugs/weed/weed.png",
+        "drugs/weed/weed.png",
+        "drugs/cocaine/cocaine.png",
+        "drugs/cocaine/cocaine.png",
+        "drugs/cocaine/cocaine.png",
+        "drugs/meth/meth.png",
+        "drugs/meth/meth.png"
     ]
 ]
