@@ -52,11 +52,14 @@ function generatePageImage(images, index) {
     return `page${index}.png`
 }
 
+// Use 1.0525 multiplier
+// Original: 190.5mm x 266.7mm
+// Adjusted: 200.5mm x 280.7mm
 function generateFigure(images, index) {
     const pageFile = generatePageImage(images, index)
 
     return `\\begin{center}
 \t\\centering
-\t\\includegraphics[width=190.5mm,height=266.7mm]{output/temp/${pageFile}}
+\t\\includegraphics[width=200.5mm,height=280.7mm]{output/temp/${pageFile}}
 \\end{center}`
 }
