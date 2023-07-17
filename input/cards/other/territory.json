@@ -5,7 +5,6 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$300#13",
         "description": [],
         "levels": [
             "1"
@@ -17,7 +16,6 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$300#13",
         "description": [],
         "levels": [
             "2"
@@ -29,7 +27,6 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$300#13",
         "description": [],
         "levels": [
             "3"
@@ -41,7 +38,6 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$300#13",
         "description": [],
         "levels": [
             "4"
@@ -53,7 +49,6 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$300#13",
         "description": [],
         "levels": [
             "5"
@@ -65,7 +60,6 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$300#13",
         "description": [],
         "levels": [
             "6"
@@ -77,7 +71,6 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
         "description": [],
         "levels": [
             "6",
@@ -85,12 +78,11 @@
         ]
     },
     {
-        "name": "territory21",
+        "name": "territory12",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
         "description": [],
         "levels": [
             "2",
@@ -98,55 +90,27 @@
         ]
     },
     {
-        "name": "territory32",
+        "name": "territory13",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
         "description": [],
         "levels": [
             "3",
-            "2"
+            "1"
         ]
     },
     {
-        "name": "territory43",
+        "name": "territory14",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
         "description": [],
         "levels": [
             "4",
-            "3"
-        ]
-    },
-    {
-        "name": "territory54",
-        "title": "Territory",
-        "frame": "land",
-        "image": "other/territory",
-        "subtitle": "Resource",
-        "cost": "$600#13",
-        "description": [],
-        "levels": [
-            "5",
-            "4"
-        ]
-    },
-    {
-        "name": "territory65",
-        "title": "Territory",
-        "frame": "land",
-        "image": "other/territory",
-        "subtitle": "Resource",
-        "cost": "$600#13",
-        "description": [],
-        "levels": [
-            "6",
-            "5"
+            "1"
         ]
     },
     {
@@ -155,11 +119,58 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
         "description": [],
         "levels": [
             "5",
             "1"
+        ]
+    },
+    {
+        "name": "territory16",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "name": "territory23",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "name": "territory24",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "name": "territory25",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "5",
+            "2"
         ]
     },
     {
@@ -168,7 +179,6 @@
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
         "description": [],
         "levels": [
             "6",
@@ -176,38 +186,23 @@
         ]
     },
     {
-        "name": "territory31",
+        "name": "territory34",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
-        "description": [],
-        "levels": [
-            "3",
-            "1"
-        ]
-    },
-    {
-        "name": "territory42",
-        "title": "Territory",
-        "frame": "land",
-        "image": "other/territory",
-        "subtitle": "Resource",
-        "cost": "$600#13",
         "description": [],
         "levels": [
             "4",
-            "2"
+            "3"
         ]
     },
     {
-        "name": "territory53",
+        "name": "territory35",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
         "description": [],
         "levels": [
             "5",
@@ -215,12 +210,35 @@
         ]
     },
     {
-        "name": "territory64",
+        "name": "territory36",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$600#13",
+        "description": [],
+        "levels": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "name": "territory45",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "name": "territory46",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
         "description": [],
         "levels": [
             "6",
@@ -228,40 +246,23 @@
         ]
     },
     {
-        "name": "territory165",
+        "name": "territory56",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$900#13",
         "description": [],
         "levels": [
             "6",
-            "5",
-            "1"
+            "5"
         ]
     },
     {
-        "name": "territory216",
+        "name": "territory123",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$900#13",
-        "description": [],
-        "levels": [
-            "6",
-            "2",
-            "1"
-        ]
-    },
-    {
-        "name": "territory321",
-        "title": "Territory",
-        "frame": "land",
-        "image": "other/territory",
-        "subtitle": "Resource",
-        "cost": "$900#13",
         "description": [],
         "levels": [
             "3",
@@ -270,12 +271,76 @@
         ]
     },
     {
-        "name": "territory432",
+        "name": "territory125",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$900#13",
+        "description": [],
+        "levels": [
+            "5",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "name": "territory126",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "6",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "name": "territory134",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "4",
+            "3",
+            "1"
+        ]
+    },
+    {
+        "name": "territory146",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "6",
+            "4",
+            "1"
+        ]
+    },
+    {
+        "name": "territory156",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "6",
+            "5",
+            "1"
+        ]
+    },
+    {
+        "name": "territory234",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
         "description": [],
         "levels": [
             "4",
@@ -284,12 +349,37 @@
         ]
     },
     {
-        "name": "territory543",
+        "name": "territory236",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$900#13",
+        "description": [],
+        "levels": [
+            "6",
+            "3",
+            "2"
+        ]
+    },
+    {
+        "name": "territory245",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
+        "description": [],
+        "levels": [
+            "5",
+            "4",
+            "2"
+        ]
+    },
+    {
+        "name": "territory345",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
         "description": [],
         "levels": [
             "5",
@@ -298,12 +388,24 @@
         ]
     },
     {
-        "name": "territory654",
+        "name": "territory356",
         "title": "Territory",
         "frame": "land",
         "image": "other/territory",
         "subtitle": "Resource",
-        "cost": "$900#13",
+        "description": [],
+        "levels": [
+            "6",
+            "5",
+            "3"
+        ]
+    },
+    {
+        "name": "territory456",
+        "title": "Territory",
+        "frame": "land",
+        "image": "other/territory",
+        "subtitle": "Resource",
         "description": [],
         "levels": [
             "6",
