@@ -253,26 +253,48 @@
         "other/territory/territory6.png"
     ],
     [
+        "other/territory/territory12.png",
+        "other/territory/territory13.png",
+        "other/territory/territory14.png",
         "other/territory/territory15.png",
         "other/territory/territory16.png",
-        "other/territory/territory21.png",
-        "other/territory/territory26.png",
-        "other/territory/territory31.png",
-        "other/territory/territory32.png",
-        "other/territory/territory42.png",
-        "other/territory/territory43.png",
-        "other/territory/territory53.png"
+        "other/territory/territory23.png",
+        "other/territory/territory24.png",
+        "other/territory/territory25.png",
+        "other/territory/territory26.png"
     ],
     [
-        "other/territory/territory54.png",
-        "other/territory/territory64.png",
-        "other/territory/territory65.png",
-        "other/territory/territory165.png",
-        "other/territory/territory216.png",
-        "other/territory/territory321.png",
-        "other/territory/territory432.png",
-        "other/territory/territory543.png",
-        "other/territory/territory654.png"
+        "other/territory/territory34.png",
+        "other/territory/territory35.png",
+        "other/territory/territory36.png",
+        "other/territory/territory45.png",
+        "other/territory/territory46.png",
+        "other/territory/territory56.png",
+        "other/territory/territory123.png",
+        "other/territory/territory124.png",
+        "other/territory/territory125.png"
+    ],
+    [
+        "other/territory/territory126.png",
+        "other/territory/territory134.png",
+        "other/territory/territory135.png",
+        "other/territory/territory136.png",
+        "other/territory/territory145.png",
+        "other/territory/territory146.png",
+        "other/territory/territory156.png",
+        "other/territory/territory234.png",
+        "other/territory/territory235.png"
+    ],
+    [
+        "other/territory/territory236.png",
+        "other/territory/territory245.png",
+        "other/territory/territory246.png",
+        "other/territory/territory256.png",
+        "other/territory/territory345.png",
+        "other/territory/territory346.png",
+        "other/territory/territory356.png",
+        "other/territory/territory456.png",
+        "other/police/police_station.png"
     ],
     [
         "other/assault/assault.png",
@@ -365,10 +387,10 @@
     ],
     [
         "other/missions/mission10.png",
-        "other/police/police_station.png",
         "drugs/weed/weed.png",
         "drugs/weed/weed.png",
         "drugs/weed/weed.png",
+        "drugs/cocaine/cocaine.png",
         "drugs/cocaine/cocaine.png",
         "drugs/cocaine/cocaine.png",
         "drugs/meth/meth.png",
