@@ -6,10 +6,7 @@
         "image": "other/truck",
         "subtitle": "Perk",
         "cost": "$1,000#11",
-        "description": [
-            "The player can buy +1 drug or weapon",
-            "each time."
-        ],
+        "description": [],
         "levels": []
     }
 ]

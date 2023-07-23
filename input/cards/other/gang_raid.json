@@ -5,12 +5,7 @@
         "frame": "land",
         "image": "other/gang_raid",
         "subtitle": "Event",
-        "description": [
-            "They attack the player's headquarters",
-            "and if they have more power than the",
-            "thugs, they take half of the money and",
-            "drugs."
-        ],
+        "description": [],
         "levels": [
             "1"
         ]
@@ -21,12 +16,7 @@
         "frame": "land",
         "image": "other/gang_raid",
         "subtitle": "Event",
-        "description": [
-            "They attack the player's headquarters",
-            "and if they have more power than the",
-            "thugs, they take half of the money and",
-            "drugs."
-        ],
+        "description": [],
         "levels": [
             "2"
         ]
@@ -37,12 +27,7 @@
         "frame": "land",
         "image": "other/gang_raid",
         "subtitle": "Event",
-        "description": [
-            "They attack the player's headquarters",
-            "and if they have more power than the",
-            "thugs, they take half of the money and",
-            "drugs."
-        ],
+        "description": [],
         "levels": [
             "3"
         ]

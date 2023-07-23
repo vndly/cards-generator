@@ -6,15 +6,7 @@
         "image": "other/safe_house",
         "subtitle": "Escape",
         "cost": "$500#13",
-        "description": [
-            "The crew hides in it. The police confiscate",
-            "the money, drugs and weapons. The",
-            "player keeps the territory.",
-            "",
-            "Once placed it cannot be moved.",
-            "",
-            "The card is discarded once used."
-        ],
+        "description": [],
         "levels": []
     }
 ]

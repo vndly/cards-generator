@@ -6,14 +6,7 @@
         "image": "crew/thug",
         "subtitle": "Crew",
         "cost": "$100#13",
-        "description": [
-            "Protects your crew members from attacks",
-            "from other gangs and police patrols.",
-            "",
-            "Can extort businesses in their territory.",
-            "",
-            "Can only carry one weapon."
-        ],
+        "description": [],
         "levels": [
             "1"
         ]
@@ -25,14 +18,7 @@
         "image": "crew/thug",
         "subtitle": "Crew",
         "cost": "$200#13",
-        "description": [
-            "Protects your crew members from attacks",
-            "from other gangs and police patrols.",
-            "",
-            "Can extort businesses in their territory.",
-            "",
-            "Can only carry one weapon."
-        ],
+        "description": [],
         "levels": [
             "2"
         ]
@@ -44,14 +30,7 @@
         "image": "crew/thug",
         "subtitle": "Crew",
         "cost": "$300#13",
-        "description": [
-            "Protects your crew members from attacks",
-            "from other gangs and police patrols.",
-            "",
-            "Can extort businesses in their territory.",
-            "",
-            "Can only carry one weapon."
-        ],
+        "description": [],
         "levels": [
             "3"
         ]
@@ -63,14 +42,7 @@
         "image": "crew/thug",
         "subtitle": "Crew",
         "cost": "$400#13",
-        "description": [
-            "Protects your crew members from attacks",
-            "from other gangs and police patrols.",
-            "",
-            "Can extort businesses in their territory.",
-            "",
-            "Can only carry one weapon."
-        ],
+        "description": [],
         "levels": [
             "4"
         ]
@@ -82,14 +54,7 @@
         "image": "crew/thug",
         "subtitle": "Crew",
         "cost": "$500#13",
-        "description": [
-            "Protects your crew members from attacks",
-            "from other gangs and police patrols.",
-            "",
-            "Can extort businesses in their territory.",
-            "",
-            "Can only carry one weapon."
-        ],
+        "description": [],
         "levels": [
             "5"
         ]
@@ -101,14 +66,7 @@
         "image": "crew/thug",
         "subtitle": "Crew",
         "cost": "$600#13",
-        "description": [
-            "Protects your crew members from attacks",
-            "from other gangs and police patrols.",
-            "",
-            "Can extort businesses in their territory.",
-            "",
-            "Can only carry one weapon."
-        ],
+        "description": [],
         "levels": [
             "6"
         ]

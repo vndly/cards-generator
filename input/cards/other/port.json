@@ -6,10 +6,7 @@
         "image": "other/port",
         "subtitle": "Perk",
         "cost": "$3,000#11",
-        "description": [
-            "The player can buy +2 drug or weapon",
-            "each time."
-        ],
+        "description": [],
         "levels": []
     }
 ]

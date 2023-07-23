@@ -5,14 +5,7 @@
         "frame": "land",
         "image": "other/assault",
         "subtitle": "Attack",
-        "description": [
-            "The player can attack another player's",
-            "territory using their thugs.",
-            "",
-            "If the attacker has more power than the",
-            "defender, it takes all the money and",
-            "drugs in that territory."
-        ],
+        "description": [],
         "levels": []
     }
 ]

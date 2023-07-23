@@ -6,15 +6,7 @@
         "image": "other/undercover_cop",
         "subtitle": "Countermove",
         "cost": "$1,000#11",
-        "description": [
-            "The player can redirect the raid to",
-            "another player.",
-            "",
-            "The original player keeps the crew,",
-            "drugs, weapons and territory.",
-            "",
-            "The card is discarded once used."
-        ],
+        "description": [],
         "levels": []
     }
 ]

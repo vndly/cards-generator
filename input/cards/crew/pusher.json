@@ -6,12 +6,7 @@
         "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$100#13",
-        "description": [
-            "Can sell as many drugs as its level.",
-            "",
-            "Can only sell one type of drug at a given",
-            "time."
-        ],
+        "description": [],
         "levels": [
             "1"
         ]
@@ -23,12 +18,7 @@
         "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$200#13",
-        "description": [
-            "Can sell as many drugs as its level.",
-            "",
-            "Can only sell one type of drug at a given",
-            "time."
-        ],
+        "description": [],
         "levels": [
             "2"
         ]
@@ -40,12 +30,7 @@
         "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$300#13",
-        "description": [
-            "Can sell as many drugs as its level.",
-            "",
-            "Can only sell one type of drug at a given",
-            "time."
-        ],
+        "description": [],
         "levels": [
             "3"
         ]
@@ -57,12 +42,7 @@
         "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$400#13",
-        "description": [
-            "Can sell as many drugs as its level.",
-            "",
-            "Can only sell one type of drug at a given",
-            "time."
-        ],
+        "description": [],
         "levels": [
             "4"
         ]
@@ -74,12 +54,7 @@
         "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$500#13",
-        "description": [
-            "Can sell as many drugs as its level.",
-            "",
-            "Can only sell one type of drug at a given",
-            "time."
-        ],
+        "description": [],
         "levels": [
             "5"
         ]
@@ -91,12 +66,7 @@
         "image": "crew/pusher",
         "subtitle": "Crew",
         "cost": "$600#13",
-        "description": [
-            "Can sell as many drugs as its level.",
-            "",
-            "Can only sell one type of drug at a given",
-            "time."
-        ],
+        "description": [],
         "levels": [
             "6"
         ]
