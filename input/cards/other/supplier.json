@@ -5,10 +5,7 @@
         "frame": "land",
         "image": "other/supplier_drug",
         "subtitle": "Supplier",
-        "description": [
-            "Each player can buy as much as 6",
-            "drug items."
-        ],
+        "description": [],
         "levels": []
     },
     {
@@ -17,10 +14,16 @@
         "frame": "land",
         "image": "other/supplier_weapon",
         "subtitle": "Supplier",
-        "description": [
-            "Each player can buy as much as 6",
-            "weapon items."
-        ],
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "supplier",
+        "title": "Supplier",
+        "frame": "land",
+        "image": "other/supplier",
+        "subtitle": "Supplier",
+        "description": [],
         "levels": []
     }
 ]
