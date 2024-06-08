@@ -4,9 +4,15 @@
         "title": "Banjo &amp; Kazooie",
         "frame": "blue",
         "image": "characters/banjo_kazooie",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Banjo-Kazooie are raring to go!",
+        "cost": "73#15",
+        "description": [
+            "Range: 47",
+            "Weight: 78",
+            "Jump: 86",
+            "Speed: 44",
+            "Dash: 45"
+        ],
         "levels": []
     },
     {
