@@ -20,9 +20,15 @@
         "title": "Bayonetta",
         "frame": "blue",
         "image": "characters/bayonetta",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Bayonetta gets wicked!",
+        "cost": "63#15",
+        "description": [
+            "Range: 49",
+            "Weight: 60",
+            "Jump: 98",
+            "Speed: 38",
+            "Dash: 55"
+        ],
         "levels": []
     },
     {
@@ -30,9 +36,15 @@
         "title": "Bowser",
         "frame": "blue",
         "image": "characters/bowser",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Bowser takes over!",
+        "cost": "14#15",
+        "description": [
+            "Range: 47",
+            "Weight: 99",
+            "Jump: 60",
+            "Speed: 31",
+            "Dash: 63"
+        ],
         "levels": []
     },
     {
@@ -40,9 +52,15 @@
         "title": "Bowser Jr.",
         "frame": "blue",
         "image": "characters/bowser_jr",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Bowser Jr. clowns the competition!",
+        "cost": "58#15",
+        "description": [
+            "Range: 59",
+            "Weight: 80",
+            "Jump: 87",
+            "Speed: 35",
+            "Dash: 39"
+        ],
         "levels": []
     },
     {
@@ -50,9 +68,15 @@
         "title": "Byleth",
         "frame": "blue",
         "image": "characters/byleth",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Byleth joins smash house!",
+        "cost": "75#15",
+        "description": [
+            "Range: 47",
+            "Weight: 71",
+            "Jump: 92",
+            "Speed: 40",
+            "Dash: 50"
+        ],
         "levels": []
     },
     {
@@ -60,9 +84,15 @@
         "title": "Captain Falcon",
         "frame": "blue",
         "image": "characters/captain_falcon",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Captain Falcon shows his moves!",
+        "cost": "11#15",
+        "description": [
+            "Range: 34",
+            "Weight: 77",
+            "Jump: 70",
+            "Speed: 42",
+            "Dash: 77"
+        ],
         "levels": []
     },
     {
@@ -70,9 +100,15 @@
         "title": "Charizard",
         "frame": "blue",
         "image": "characters/charizard",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Charizard fires it up!",
+        "cost": "35#15",
+        "description": [
+            "Range: 57",
+            "Weight: 85",
+            "Jump: 72",
+            "Speed: 41",
+            "Dash: 45"
+        ],
         "levels": []
     },
     {
@@ -80,9 +116,15 @@
         "title": "Chrom",
         "frame": "blue",
         "image": "characters/chrom",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Chrom joins the battle!",
+        "cost": "25ε#15",
+        "description": [
+            "Range: 46",
+            "Weight: 70",
+            "Jump: 74",
+            "Speed: 59",
+            "Dash: 51"
+        ],
         "levels": []
     },
     {
@@ -90,9 +132,15 @@
         "title": "Cloud",
         "frame": "blue",
         "image": "characters/cloud",
-        "subtitle": "",
-        "cost": "",
-        "description": [],
+        "subtitle": "Cloud storms into battle!",
+        "cost": "61#15",
+        "description": [
+            "Range: 39",
+            "Weight: 74",
+            "Jump: 86",
+            "Speed: 50",
+            "Dash: 51"
+        ],
         "levels": []
     }
 ]
