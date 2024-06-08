@@ -43,11 +43,11 @@ function base64File(path) {
 }
 
 function cardFrame(name) {
-    return base64File(`images/frames/${name}.png`)
+    return base64File(`input/images/frames/${name}.png`)
 }
 
 function cardImage(name) {
-    return base64File(`images/${name}.png`)
+    return base64File(`input/images/${name}.png`)
 }
 
 function levelChip(level, index) {
@@ -57,7 +57,7 @@ function levelChip(level, index) {
 function costChip(cost) {
     const parts = cost.split('#')
     const size = parts[1]
-    const image = base64File(`images/cost.png`)
+    const image = base64File(`input/images/cost.png`)
 
     return `<image width="49.398" height="22.048" preserveAspectRatio="none" xlink:href="${image}"
     id="image257"
