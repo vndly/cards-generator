@@ -1,11 +1,13 @@
 const fs = require('fs')
-const template = fs.readFileSync('input/template_card.svg', 'utf-8')
+const { argv } = require('process')
+const gameName = argv[2]
+const template = fs.readFileSync(`input/${gameName}/template_card.svg`, 'utf-8')
 
-fs.readdir('input/cards', (err, files) => {
+fs.readdir(`input/${gameName}/cards`, (err, files) => {
     files.forEach(file1 => {
-        fs.readdir(`input/cards/${file1}`, (err, files) => {
+        fs.readdir(`input/${gameName}/cards/${file1}`, (err, files) => {
             files.forEach(file2 => {
-                const json = JSON.parse(fs.readFileSync(`input/cards/${file1}/${file2}`, 'utf-8'))
+                const json = JSON.parse(fs.readFileSync(`input/${gameName}/cards/${file1}/${file2}`, 'utf-8'))
 
                 for (const entry of json) {
                     const path = `${file1}/${file2.replace('.json', '')}/`
@@ -43,11 +45,11 @@ function base64File(path) {
 }
 
 function cardFrame(name) {
-    return base64File(`input/images/frames/${name}.png`)
+    return base64File(`input/${gameName}/images/frames/${name}.png`)
 }
 
 function cardImage(name) {
-    return base64File(`input/images/${name}.png`)
+    return base64File(`input/${gameName}/images/${name}.png`)
 }
 
 function levelChip(level, index) {
@@ -57,7 +59,7 @@ function levelChip(level, index) {
 function costChip(cost) {
     const parts = cost.split('#')
     const size = parts[1]
-    const image = base64File(`input/images/cost.png`)
+    const image = base64File(`input/${gameName}/images/cost.png`)
 
     return `<image width="49.398" height="22.048" preserveAspectRatio="none" xlink:href="${image}" id="image" x="299.62" y="298.56" />
     <text style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264571" text-anchor="middle" dominant-baseline="middle" x="324.72" y="311" id="text">
