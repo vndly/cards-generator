@@ -9,5 +9,16 @@
         "characters/characters/charizard.png",
         "characters/characters/chrom.png",
         "characters/characters/cloud.png"
+    ],
+    [
+        "characters/characters/corrin.png",
+        "characters/characters/daisy.png",
+        "characters/characters/dark_pit.png",
+        "characters/characters/dark_samus.png",
+        "characters/characters/diddy_kong.png",
+        "characters/characters/donkey_kong.png",
+        "characters/characters/dr_mario.png",
+        "characters/characters/duck_hunt.png",
+        "characters/characters/falco.png"
     ]
 ]

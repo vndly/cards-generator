@@ -142,5 +142,149 @@
             "Dash: 51"
         ],
         "levels": []
+    },
+    {
+        "name": "corrin",
+        "title": "Corrin",
+        "frame": "blue",
+        "image": "characters/corrin",
+        "subtitle": "Corrin chooses to smash!",
+        "cost": "#62@15",
+        "description": [
+            "Range: 71",
+            "Weight: 72",
+            "Jump: 88",
+            "Speed: 35",
+            "Dash: 34"
+        ],
+        "levels": []
+    },
+    {
+        "name": "daisy",
+        "title": "Daisy",
+        "frame": "blue",
+        "image": "characters/daisy",
+        "subtitle": "Daisy says hi!",
+        "cost": "#13ε@15",
+        "description": [
+            "Range: 36",
+            "Weight: 65",
+            "Jump: 87",
+            "Speed: 27",
+            "Dash: 85"
+        ],
+        "levels": []
+    },
+    {
+        "name": "dark_pit",
+        "title": "Dark Pit",
+        "frame": "blue",
+        "image": "characters/dark_pit",
+        "subtitle": "Dark pit is no pawn!",
+        "cost": "#28ε@15",
+        "description": [
+            "Range: 41",
+            "Weight: 71",
+            "Jump: 82",
+            "Speed: 38",
+            "Dash: 68"
+        ],
+        "levels": []
+    },
+    {
+        "name": "dark_samus",
+        "title": "Dark Samus",
+        "frame": "blue",
+        "image": "characters/dark_samus",
+        "subtitle": "Dark Samus echoes!",
+        "cost": "#04ε@15",
+        "description": [
+            "Range: 99",
+            "Weight: 80",
+            "Jump: 60",
+            "Speed: 23",
+            "Dash: 38"
+        ],
+        "levels": []
+    },
+    {
+        "name": "diddy_kong",
+        "title": "Diddy Kong",
+        "frame": "blue",
+        "image": "characters/diddy_kong",
+        "subtitle": "Diddy Kong goes bananas!",
+        "cost": "#36@15",
+        "description": [
+            "Range: 38",
+            "Weight: 66",
+            "Jump: 92",
+            "Speed: 54",
+            "Dash: 50"
+        ],
+        "levels": []
+    },
+    {
+        "name": "donkey_kong",
+        "title": "Donkey Kong",
+        "frame": "blue",
+        "image": "characters/donkey_kong",
+        "subtitle": "Donkey Kong barrels in!",
+        "cost": "#2@15",
+        "description": [
+            "Range: 42",
+            "Weight: 94",
+            "Jump: 63",
+            "Speed: 33",
+            "Dash: 68"
+        ],
+        "levels": []
+    },
+    {
+        "name": "dr_mario",
+        "title": "Dr. Mario",
+        "frame": "blue",
+        "image": "characters/dr_mario",
+        "subtitle": "Dr. Mario is in the house!",
+        "cost": "#18@15",
+        "description": [
+            "Range: 48",
+            "Weight: 72",
+            "Jump: 98",
+            "Speed: 30",
+            "Dash: 52"
+        ],
+        "levels": []
+    },
+    {
+        "name": "duck_hunt",
+        "title": "Duck Hunt",
+        "frame": "blue",
+        "image": "characters/duck_hunt",
+        "subtitle": "Duck Hunt takes aim!",
+        "cost": "#59@15",
+        "description": [
+            "Range: 47",
+            "Weight: 63",
+            "Jump: 95",
+            "Speed: 49",
+            "Dash: 46"
+        ],
+        "levels": []
+    },
+    {
+        "name": "falco",
+        "title": "Falco",
+        "frame": "blue",
+        "image": "characters/falco",
+        "subtitle": "Falco prefers the air!",
+        "cost": "#20@15",
+        "description": [
+            "Range: 42",
+            "Weight: 60",
+            "Jump: 98",
+            "Speed: 44",
+            "Dash: 56"
+        ],
+        "levels": []
     }
 ]
