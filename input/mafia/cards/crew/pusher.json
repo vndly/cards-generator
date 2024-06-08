@@ -5,7 +5,7 @@
         "frame": "green",
         "image": "crew/pusher",
         "subtitle": "Crew",
-        "cost": "$100#13",
+        "cost": "$100@13",
         "description": [],
         "levels": [
             "1"
@@ -17,7 +17,7 @@
         "frame": "green",
         "image": "crew/pusher",
         "subtitle": "Crew",
-        "cost": "$200#13",
+        "cost": "$200@13",
         "description": [],
         "levels": [
             "2"
@@ -29,7 +29,7 @@
         "frame": "green",
         "image": "crew/pusher",
         "subtitle": "Crew",
-        "cost": "$300#13",
+        "cost": "$300@13",
         "description": [],
         "levels": [
             "3"
@@ -41,7 +41,7 @@
         "frame": "green",
         "image": "crew/pusher",
         "subtitle": "Crew",
-        "cost": "$400#13",
+        "cost": "$400@13",
         "description": [],
         "levels": [
             "4"
@@ -53,7 +53,7 @@
         "frame": "green",
         "image": "crew/pusher",
         "subtitle": "Crew",
-        "cost": "$500#13",
+        "cost": "$500@13",
         "description": [],
         "levels": [
             "5"
@@ -65,7 +65,7 @@
         "frame": "green",
         "image": "crew/pusher",
         "subtitle": "Crew",
-        "cost": "$600#13",
+        "cost": "$600@13",
         "description": [],
         "levels": [
             "6"

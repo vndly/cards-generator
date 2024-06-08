@@ -5,7 +5,7 @@
         "frame": "artifact",
         "image": "drugs/weed",
         "subtitle": "Drug",
-        "cost": "$200#13",
+        "cost": "$200@13",
         "description": [],
         "levels": []
     }

@@ -5,7 +5,7 @@
         "frame": "blue",
         "image": "characters/banjo_kazooie",
         "subtitle": "Banjo-Kazooie are raring to go!",
-        "cost": "73#15",
+        "cost": "#73@15",
         "description": [
             "Range: 47",
             "Weight: 78",
@@ -21,7 +21,7 @@
         "frame": "blue",
         "image": "characters/bayonetta",
         "subtitle": "Bayonetta gets wicked!",
-        "cost": "63#15",
+        "cost": "#63@15",
         "description": [
             "Range: 49",
             "Weight: 60",
@@ -37,7 +37,7 @@
         "frame": "blue",
         "image": "characters/bowser",
         "subtitle": "Bowser takes over!",
-        "cost": "14#15",
+        "cost": "#14@15",
         "description": [
             "Range: 47",
             "Weight: 99",
@@ -53,7 +53,7 @@
         "frame": "blue",
         "image": "characters/bowser_jr",
         "subtitle": "Bowser Jr. clowns the competition!",
-        "cost": "58#15",
+        "cost": "#58@15",
         "description": [
             "Range: 59",
             "Weight: 80",
@@ -69,7 +69,7 @@
         "frame": "blue",
         "image": "characters/byleth",
         "subtitle": "Byleth joins smash house!",
-        "cost": "75#15",
+        "cost": "#75@15",
         "description": [
             "Range: 47",
             "Weight: 71",
@@ -85,7 +85,7 @@
         "frame": "blue",
         "image": "characters/captain_falcon",
         "subtitle": "Captain Falcon shows his moves!",
-        "cost": "11#15",
+        "cost": "#11@15",
         "description": [
             "Range: 34",
             "Weight: 77",
@@ -101,7 +101,7 @@
         "frame": "blue",
         "image": "characters/charizard",
         "subtitle": "Charizard fires it up!",
-        "cost": "35#15",
+        "cost": "#35@15",
         "description": [
             "Range: 57",
             "Weight: 85",
@@ -117,7 +117,7 @@
         "frame": "blue",
         "image": "characters/chrom",
         "subtitle": "Chrom joins the battle!",
-        "cost": "25ε#15",
+        "cost": "#25ε@15",
         "description": [
             "Range: 46",
             "Weight: 70",
@@ -133,7 +133,7 @@
         "frame": "blue",
         "image": "characters/cloud",
         "subtitle": "Cloud storms into battle!",
-        "cost": "61#15",
+        "cost": "#61@15",
         "description": [
             "Range: 39",
             "Weight: 74",

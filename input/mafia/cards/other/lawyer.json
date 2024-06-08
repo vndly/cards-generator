@@ -5,7 +5,7 @@
         "frame": "land",
         "image": "other/lawyer",
         "subtitle": "Countermove",
-        "cost": "$100#13",
+        "cost": "$100@13",
         "description": [],
         "levels": [
             "1"
@@ -17,7 +17,7 @@
         "frame": "land",
         "image": "other/lawyer",
         "subtitle": "Countermove",
-        "cost": "$200#13",
+        "cost": "$200@13",
         "description": [],
         "levels": [
             "2"
@@ -29,7 +29,7 @@
         "frame": "land",
         "image": "other/lawyer",
         "subtitle": "Countermove",
-        "cost": "$300#13",
+        "cost": "$300@13",
         "description": [],
         "levels": [
             "3"
