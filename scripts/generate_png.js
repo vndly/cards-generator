@@ -1,7 +1,7 @@
 const fs = require('fs')
 const { argv } = require('process')
 const gameName = argv[2]
-const template = fs.readFileSync(`input/${gameName}/template_card.svg`, 'utf-8')
+const template = fs.readFileSync(`input/${gameName}/templates/template_card.svg`, 'utf-8')
 
 fs.readdir(`input/${gameName}/cards`, (err, files) => {
     files.forEach(file1 => {

@@ -1,7 +1,9 @@
 const fs = require('fs')
-const templateDocument = fs.readFileSync('input/template_document.tex', 'utf-8')
-const templatePage = fs.readFileSync('input/template_page.svg', 'utf-8')
-const json = JSON.parse(fs.readFileSync('input/pages.json', 'utf-8'))
+const { argv } = require('process')
+const gameName = argv[2]
+const templateDocument = fs.readFileSync(`input/${gameName}/templates/template_document.tex`, 'utf-8')
+const templatePage = fs.readFileSync(`input/${gameName}/templates/template_page.svg`, 'utf-8')
+const json = JSON.parse(fs.readFileSync(`input/${gameName}/pages.json`, 'utf-8'))
 
 let pages = ''
 
@@ -33,15 +35,15 @@ function convertSvg2Png(name) {
 
 function generatePageImage(images, index) {
     const content = templatePage
-        .replace('{{IMAGE1}}', base64File(`png/${images[0]}`))
-        .replace('{{IMAGE2}}', base64File(`png/${images[1]}`))
-        .replace('{{IMAGE3}}', base64File(`png/${images[2]}`))
-        .replace('{{IMAGE4}}', base64File(`png/${images[3]}`))
-        .replace('{{IMAGE5}}', base64File(`png/${images[4]}`))
-        .replace('{{IMAGE6}}', base64File(`png/${images[5]}`))
-        .replace('{{IMAGE7}}', base64File(`png/${images[6]}`))
-        .replace('{{IMAGE8}}', base64File(`png/${images[7]}`))
-        .replace('{{IMAGE9}}', base64File(`png/${images[8]}`))
+        .replace('{{IMAGE1}}', base64File(`temp/png/${images[0]}`))
+        .replace('{{IMAGE2}}', base64File(`temp/png/${images[1]}`))
+        .replace('{{IMAGE3}}', base64File(`temp/png/${images[2]}`))
+        .replace('{{IMAGE4}}', base64File(`temp/png/${images[3]}`))
+        .replace('{{IMAGE5}}', base64File(`temp/png/${images[4]}`))
+        .replace('{{IMAGE6}}', base64File(`temp/png/${images[5]}`))
+        .replace('{{IMAGE7}}', base64File(`temp/png/${images[6]}`))
+        .replace('{{IMAGE8}}', base64File(`temp/png/${images[7]}`))
+        .replace('{{IMAGE9}}', base64File(`temp/png/${images[8]}`))
 
     fs.writeFileSync(`output/temp/page${index}.svg`, content)
     convertSvg2Png(`page${index}`)
