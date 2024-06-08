@@ -59,21 +59,9 @@ function costChip(cost) {
     const size = parts[1]
     const image = base64File(`input/images/cost.png`)
 
-    return `<image width="49.398" height="22.048" preserveAspectRatio="none" xlink:href="${image}"
-    id="image257"
-    x="299.62"
-    y="298.56" /><text
-    style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264571"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    x="324.72"
-    y="311"
-    id="levelin1-3"><tspan
-        sodipodi:role="line"
-        id="tspanlevel1-6"
-        style="font-size:${size}px;stroke-width:0.264571"
-        x="324.72"
-        y="311">${parts[0]}</tspan></text>`
+    return `<image width="49.398" height="22.048" preserveAspectRatio="none" xlink:href="${image}" id="image" x="299.62" y="298.56" />
+    <text style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264571" text-anchor="middle" dominant-baseline="middle" x="324.72" y="311" id="text">
+    <tspan sodipodi:role="line" id="text" style="font-size:${size}px;stroke-width:0.264571" x="324.72" y="311">${parts[0]}</tspan></text>`
 }
 
 function descriptionLine(text, index) {
