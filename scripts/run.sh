@@ -2,15 +2,18 @@
 
 set -e
 
-GAME="mafia"
+GAME="smash"
 
 BASE_DIR=`dirname $0`
 TEMP="${BASE_DIR}/../temp"
+OUTPUT="${BASE_DIR}/../output"
 
 rm -rf ${TEMP}
+rm -rf ${OUTPUT}
+
 mkdir ${TEMP}
 mkdir "${TEMP}/output"
-mkdir "output"
+mkdir "${OUTPUT}"
 
 node ${BASE_DIR}/generate_png.js ${GAME}
 node ${BASE_DIR}/generate_pdf.js ${GAME}

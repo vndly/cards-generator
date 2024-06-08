@@ -1,0 +1,92 @@
+[
+    {
+        "name": "banjo_kazooie",
+        "title": "Banjo and Kazooie",
+        "frame": "blue",
+        "image": "characters/banjo_kazooie",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "bayonetta",
+        "title": "Bayonetta",
+        "frame": "blue",
+        "image": "characters/bayonetta",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "bowser",
+        "title": "Bowser",
+        "frame": "blue",
+        "image": "characters/bowser",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "bowser_jr",
+        "title": "Bowser Jr.",
+        "frame": "blue",
+        "image": "characters/bowser_jr",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "byleth",
+        "title": "Byleth",
+        "frame": "blue",
+        "image": "characters/byleth",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "captain_falcon",
+        "title": "Captain Falcon",
+        "frame": "blue",
+        "image": "characters/captain_falcon",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "charizard",
+        "title": "Charizard",
+        "frame": "blue",
+        "image": "characters/charizard",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "chrom",
+        "title": "Chrom",
+        "frame": "blue",
+        "image": "characters/chrom",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "cloud",
+        "title": "Cloud",
+        "frame": "blue",
+        "image": "characters/cloud",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    }
+]
