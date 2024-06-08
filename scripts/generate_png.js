@@ -33,7 +33,7 @@ fs.readdir('input/cards', (err, files) => {
 
 function convertSvg2Png(name) {
     const exec = require('child_process').execSync
-    exec(`inkscape --export-width=375 --export-height=525 --export-type=png --export-filename="png/${name}.png" "svg/${name}.svg"`)
+    exec(`inkscape --export-width=375 --export-height=525 --export-type=png --export-filename="temp/png/${name}.png" "temp/svg/${name}.svg"`)
 }
 
 function base64File(path) {
@@ -118,14 +118,14 @@ function generateSvg(path, name, title, frame, image, subtitle, cost, descriptio
     }
 
     try {
-        fs.mkdirSync(`png/${path}`, { recursive: true })
+        fs.mkdirSync(`temp/png/${path}`, { recursive: true })
     } catch (e) {
     }
 
     try {
-        fs.mkdirSync(`svg/${path}`, { recursive: true })
+        fs.mkdirSync(`temp/svg/${path}`, { recursive: true })
     } catch (e) {
     }
 
-    fs.writeFileSync(`svg/${path}${name}`, card)
+    fs.writeFileSync(`temp/svg/${path}${name}`, card)
 }
