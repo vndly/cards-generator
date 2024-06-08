@@ -30,7 +30,7 @@ function base64File(path) {
 
 function convertSvg2Png(name) {
     const exec = require('child_process').execSync
-    exec(`inkscape --export-width=1905 --export-height=2667 --export-type=png --export-filename="output/temp/${name}.png" "output/temp/${name}.svg"`)
+    exec(`inkscape --export-width=1905 --export-height=2667 --export-type=png --export-filename="temp/output/${name}.png" "temp/output/${name}.svg"`)
 }
 
 function generatePageImage(images, index) {
@@ -45,11 +45,11 @@ function generatePageImage(images, index) {
         .replace('{{IMAGE8}}', base64File(`temp/png/${images[7]}`))
         .replace('{{IMAGE9}}', base64File(`temp/png/${images[8]}`))
 
-    fs.writeFileSync(`output/temp/page${index}.svg`, content)
+    fs.writeFileSync(`temp/output/page${index}.svg`, content)
     convertSvg2Png(`page${index}`)
 
     const exec = require('child_process').execSync
-    exec(`convert output/temp/page${index}.png -colorspace Gray output/temp/page${index}.png`)
+    exec(`convert temp/output/page${index}.png -colorspace Gray temp/output/page${index}.png`)
 
     return `page${index}.png`
 }
@@ -62,6 +62,6 @@ function generateFigure(images, index) {
 
     return `\\begin{center}
 \t\\centering
-\t\\includegraphics[width=200.5mm,height=280.7mm]{output/temp/${pageFile}}
+\t\\includegraphics[width=200.5mm,height=280.7mm]{temp/output/${pageFile}}
 \\end{center}`
 }

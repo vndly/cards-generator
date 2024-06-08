@@ -7,10 +7,12 @@ GAME="mafia"
 BASE_DIR=`dirname $0`
 TEMP="${BASE_DIR}/../temp"
 
-#rm -rf ${TEMP}
-#mkdir ${TEMP}
+rm -rf ${TEMP}
+mkdir ${TEMP}
+mkdir "${TEMP}/output"
+mkdir "output"
 
-#node ${BASE_DIR}/generate_png.js ${GAME}
+node ${BASE_DIR}/generate_png.js ${GAME}
 node ${BASE_DIR}/generate_pdf.js ${GAME}
 
 pdflatex -output-directory=${BASE_DIR}/../output ${BASE_DIR}/../output/document.tex
