@@ -180,7 +180,7 @@
         "title": "Dark Pit",
         "frame": "blue",
         "image": "characters/dark_pit",
-        "subtitle": "Dark pit is no pawn!",
+        "subtitle": "Dark Pit is no pawn!",
         "cost": "#28ε@15",
         "description": [
             "Range: 41",
@@ -1092,7 +1092,7 @@
         "title": "Ryu",
         "frame": "blue",
         "image": "characters/ryu",
-        "subtitle": "Ryu Hayabusa makes the cut!",
+        "subtitle": "Ryu makes the cut!",
         "cost": "#60@15",
         "description": [
             "Range: 47",
