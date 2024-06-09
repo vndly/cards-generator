@@ -75,5 +75,16 @@
         "characters/characters/pit.png",
         "characters/characters/pyra.png",
         "characters/characters/rob.png"
+    ],
+    [
+        "characters/characters/richter.png",
+        "characters/characters/ridley.png",
+        "characters/characters/robin.png",
+        "characters/characters/rosalina_luma.png",
+        "characters/characters/roy.png",
+        "characters/characters/ryu.png",
+        "characters/characters/samus.png",
+        "characters/characters/sephiroth.png",
+        "characters/characters/sheik.png"
     ]
 ]
