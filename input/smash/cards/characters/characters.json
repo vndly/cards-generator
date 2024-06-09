@@ -286,5 +286,1141 @@
             "Dash: 56"
         ],
         "levels": []
+    },
+    {
+        "name": "fox",
+        "title": "Fox",
+        "frame": "blue",
+        "image": "characters/fox",
+        "subtitle": "Fox never gives up hope!",
+        "cost": "#7@15",
+        "description": [
+            "Range: 37",
+            "Weight: 57",
+            "Jump: 77",
+            "Speed: 73",
+            "Dash: 56"
+        ],
+        "levels": []
+    },
+    {
+        "name": "ganondorf",
+        "title": "Ganondorf",
+        "frame": "blue",
+        "image": "characters/ganondorf",
+        "subtitle": "Ganondorf unleashes his power!",
+        "cost": "#23@15",
+        "description": [
+            "Range: 43",
+            "Weight: 87",
+            "Jump: 68",
+            "Speed: 17",
+            "Dash: 85"
+        ],
+        "levels": []
+    },
+    {
+        "name": "greninja",
+        "title": "Greninja",
+        "frame": "blue",
+        "image": "characters/greninja",
+        "subtitle": "Greninja makes a splash!",
+        "cost": "#50@15",
+        "description": [
+            "Range: 50",
+            "Weight: 65",
+            "Jump: 82",
+            "Speed: 61",
+            "Dash: 42"
+        ],
+        "levels": []
+    },
+    {
+        "name": "hero",
+        "title": "Hero",
+        "frame": "blue",
+        "image": "characters/hero",
+        "subtitle": "Hero draws near!",
+        "cost": "#72@15",
+        "description": [
+            "Range: 43",
+            "Weight: 74",
+            "Jump: 93",
+            "Speed: 38",
+            "Dash: 52"
+        ],
+        "levels": []
+    },
+    {
+        "name": "ice_climbers",
+        "title": "Ice Climbers",
+        "frame": "blue",
+        "image": "characters/ice_climbers",
+        "subtitle": "Ice Climbers break the ice!",
+        "cost": "#15@15",
+        "description": [
+            "Range: 43",
+            "Weight: 68",
+            "Jump: 99",
+            "Speed: 37",
+            "Dash: 53"
+        ],
+        "levels": []
+    },
+    {
+        "name": "ike",
+        "title": "Ike",
+        "frame": "blue",
+        "image": "characters/ike",
+        "subtitle": "Ike takes the radiant path!",
+        "cost": "#32@15",
+        "description": [
+            "Range: 42",
+            "Weight: 79",
+            "Jump: 88",
+            "Speed: 45",
+            "Dash: 46"
+        ],
+        "levels": []
+    },
+    {
+        "name": "incineroar",
+        "title": "Incineroar",
+        "frame": "blue",
+        "image": "characters/incineroar",
+        "subtitle": "Incineroar enters the ring!",
+        "cost": "#69@15",
+        "description": [
+            "Range: 59",
+            "Weight: 85",
+            "Jump: 84",
+            "Speed: 25",
+            "Dash: 47"
+        ],
+        "levels": []
+    },
+    {
+        "name": "inkling",
+        "title": "Inkling",
+        "frame": "blue",
+        "image": "characters/inkling",
+        "subtitle": "Inklings claim their turf!",
+        "cost": "#64@15",
+        "description": [
+            "Range: 43",
+            "Weight: 69",
+            "Jump: 90",
+            "Speed: 48",
+            "Dash: 50"
+        ],
+        "levels": []
+    },
+    {
+        "name": "isabelle",
+        "title": "Isabelle",
+        "frame": "blue",
+        "image": "characters/isabelle",
+        "subtitle": "Isabelle turns over a new leaf!",
+        "cost": "#68@15",
+        "description": [
+            "Range: 64",
+            "Weight: 65",
+            "Jump: 95",
+            "Speed: 30",
+            "Dash: 46"
+        ],
+        "levels": []
+    },
+    {
+        "name": "ivysaur",
+        "title": "Ivysaur",
+        "frame": "blue",
+        "image": "characters/ivysaur",
+        "subtitle": "Ivysaur plants his roots!",
+        "cost": "#34@15",
+        "description": [
+            "Range: 70",
+            "Weight: 71",
+            "Jump: 86",
+            "Speed: 33",
+            "Dash: 40"
+        ],
+        "levels": []
+    },
+    {
+        "name": "jigglypuff",
+        "title": "Jigglypuff",
+        "frame": "blue",
+        "image": "characters/jigglypuff",
+        "subtitle": "Jigglypuff puffs up!",
+        "cost": "#12@15",
+        "description": [
+            "Range: 46",
+            "Weight: 50",
+            "Jump: 89",
+            "Speed: 36",
+            "Dash: 79"
+        ],
+        "levels": []
+    },
+    {
+        "name": "joker",
+        "title": "Joker",
+        "frame": "blue",
+        "image": "characters/joker",
+        "subtitle": "Joker steals the show!",
+        "cost": "#71@15",
+        "description": [
+            "Range: 49",
+            "Weight: 68",
+            "Jump: 90",
+            "Speed: 40",
+            "Dash: 53"
+        ],
+        "levels": []
+    },
+    {
+        "name": "kazuya",
+        "title": "Kazuya",
+        "frame": "blue",
+        "image": "characters/kazuya",
+        "subtitle": "Kazuya faces the heavens!",
+        "cost": "#81@15",
+        "description": [
+            "Range: 55",
+            "Weight: 83",
+            "Jump: 82",
+            "Speed: 38",
+            "Dash: 42"
+        ],
+        "levels": []
+    },
+    {
+        "name": "ken",
+        "title": "Ken",
+        "frame": "blue",
+        "image": "characters/ken",
+        "subtitle": "Ken turns up the heat!",
+        "cost": "#60ε@15",
+        "description": [
+            "Range: 46",
+            "Weight: 76",
+            "Jump: 82",
+            "Speed: 40",
+            "Dash: 56"
+        ],
+        "levels": []
+    },
+    {
+        "name": "king_dedede",
+        "title": "King Dedede",
+        "frame": "blue",
+        "image": "characters/king_dedede",
+        "subtitle": "King Dedede drops the hammer!",
+        "cost": "#39@15",
+        "description": [
+            "Range: 55",
+            "Weight: 94",
+            "Jump: 87",
+            "Speed: 25",
+            "Dash: 39"
+        ],
+        "levels": []
+    },
+    {
+        "name": "king_k_rool",
+        "title": "King K. Rool",
+        "frame": "blue",
+        "image": "characters/king_k_rool",
+        "subtitle": "King K. Rool comes aboard!",
+        "cost": "#67@15",
+        "description": [
+            "Range: 58",
+            "Weight: 98",
+            "Jump: 71",
+            "Speed: 29",
+            "Dash: 44"
+        ],
+        "levels": []
+    },
+    {
+        "name": "kirby",
+        "title": "Kirby",
+        "frame": "blue",
+        "image": "characters/kirby",
+        "subtitle": "Kirby stars in smash!",
+        "cost": "#6@15",
+        "description": [
+            "Range: 44",
+            "Weight: 58",
+            "Jump: 85",
+            "Speed: 44",
+            "Dash: 69"
+        ],
+        "levels": []
+    },
+    {
+        "name": "link",
+        "title": "Link",
+        "frame": "blue",
+        "image": "characters/link",
+        "subtitle": "Link shows his courage!",
+        "cost": "#3@15",
+        "description": [
+            "Range: 40",
+            "Weight: 77",
+            "Jump: 81",
+            "Speed: 33",
+            "Dash: 69"
+        ],
+        "levels": []
+    },
+    {
+        "name": "little_mac",
+        "title": "Little Mac",
+        "frame": "blue",
+        "image": "characters/little_mac",
+        "subtitle": "Little Mac punches in!",
+        "cost": "#49@15",
+        "description": [
+            "Range: 44",
+            "Weight: 64",
+            "Jump: 45",
+            "Speed: 48",
+            "Dash: 99"
+        ],
+        "levels": []
+    },
+    {
+        "name": "lucario",
+        "title": "Lucario",
+        "frame": "blue",
+        "image": "characters/lucario",
+        "subtitle": "Lucario senses a battle!",
+        "cost": "#41@15",
+        "description": [
+            "Range: 39",
+            "Weight: 68",
+            "Jump: 87",
+            "Speed: 54",
+            "Dash: 52"
+        ],
+        "levels": []
+    },
+    {
+        "name": "lucas",
+        "title": "Lucas",
+        "frame": "blue",
+        "image": "characters/lucas",
+        "subtitle": "Lucas comes out of nowhere!",
+        "cost": "#37@15",
+        "description": [
+            "Range: 70",
+            "Weight: 69",
+            "Jump: 80",
+            "Speed: 40",
+            "Dash: 41"
+        ],
+        "levels": []
+    },
+    {
+        "name": "lucina",
+        "title": "Lucina",
+        "frame": "blue",
+        "image": "characters/lucina",
+        "subtitle": "Lucina wakes her blade!",
+        "cost": "#21ε@15",
+        "description": [
+            "Range: 46",
+            "Weight: 66",
+            "Jump: 90",
+            "Speed: 44",
+            "Dash: 54"
+        ],
+        "levels": []
+    },
+    {
+        "name": "luigi",
+        "title": "Luigi",
+        "frame": "blue",
+        "image": "characters/luigi",
+        "subtitle": "Luigi faces his fears!",
+        "cost": "#9@15",
+        "description": [
+            "Range: 75",
+            "Weight: 71",
+            "Jump: 92",
+            "Speed: 30",
+            "Dash: 32"
+        ],
+        "levels": []
+    },
+    {
+        "name": "mario",
+        "title": "Mario",
+        "frame": "blue",
+        "image": "characters/mario",
+        "subtitle": "Mario jumps into action!",
+        "cost": "#1@15",
+        "description": [
+            "Range: 40",
+            "Weight: 72",
+            "Jump: 94",
+            "Speed: 47",
+            "Dash: 47"
+        ],
+        "levels": []
+    },
+    {
+        "name": "marth",
+        "title": "Marth",
+        "frame": "blue",
+        "image": "characters/marth",
+        "subtitle": "Marth reclaims his land!",
+        "cost": "#21@15",
+        "description": [
+            "Range: 47",
+            "Weight: 66",
+            "Jump: 88",
+            "Speed: 45",
+            "Dash: 54"
+        ],
+        "levels": []
+    },
+    {
+        "name": "mega_man",
+        "title": "Mega Man",
+        "frame": "blue",
+        "image": "characters/mega_man",
+        "subtitle": "Mega Man joins the battle!",
+        "cost": "#46@15",
+        "description": [
+            "Range: 46",
+            "Weight: 78",
+            "Jump: 83",
+            "Speed: 46",
+            "Dash: 47"
+        ],
+        "levels": []
+    },
+    {
+        "name": "meta_knight",
+        "title": "Meta Knight",
+        "frame": "blue",
+        "image": "characters/meta_knight",
+        "subtitle": "Meta Knight seeks a duel!",
+        "cost": "#27@15",
+        "description": [
+            "Range: 39",
+            "Weight: 59",
+            "Jump: 79",
+            "Speed: 50",
+            "Dash: 73"
+        ],
+        "levels": []
+    },
+    {
+        "name": "mewtwo",
+        "title": "Mewtwo",
+        "frame": "blue",
+        "image": "characters/mewtwo",
+        "subtitle": "Mewtwo strikes back!",
+        "cost": "#24@15",
+        "description": [
+            "Range: 46",
+            "Weight: 58",
+            "Jump: 93",
+            "Speed: 52",
+            "Dash: 51"
+        ],
+        "levels": []
+    },
+    {
+        "name": "mii_brawler",
+        "title": "Mii Brawler",
+        "frame": "blue",
+        "image": "characters/mii_brawler",
+        "subtitle": "Mii Brawler joins the melee!",
+        "cost": "#51@15",
+        "description": [
+            "Range: 45",
+            "Weight: 69",
+            "Jump: 82",
+            "Speed: 49",
+            "Dash: 55"
+        ],
+        "levels": []
+    },
+    {
+        "name": "mii_gunner",
+        "title": "Mii Gunner",
+        "frame": "blue",
+        "image": "characters/mii_gunner",
+        "subtitle": "Mii Gunner aims for the ultimate win!",
+        "cost": "#53@15",
+        "description": [
+            "Range: 53",
+            "Weight: 77",
+            "Jump: 92",
+            "Speed: 39",
+            "Dash: 39"
+        ],
+        "levels": []
+    },
+    {
+        "name": "mii_swordfighter",
+        "title": "Mii Swordfighter",
+        "frame": "blue",
+        "image": "characters/mii_swordfighter",
+        "subtitle": "Mii Swordfighter fights for glory!",
+        "cost": "#52@15",
+        "description": [
+            "Range: 43",
+            "Weight: 74",
+            "Jump: 78",
+            "Speed: 43",
+            "Dash: 62"
+        ],
+        "levels": []
+    },
+    {
+        "name": "min_min",
+        "title": "Min Min",
+        "frame": "blue",
+        "image": "characters/min_min",
+        "subtitle": "Min Min arms herself!",
+        "cost": "#76@15",
+        "description": [
+            "Range: 94",
+            "Weight: 77",
+            "Jump: 68",
+            "Speed: 26",
+            "Dash: 35"
+        ],
+        "levels": []
+    },
+    {
+        "name": "mr_game_watch",
+        "title": "Mr. Game &amp; Watch",
+        "frame": "blue",
+        "image": "characters/mr_game_watch",
+        "subtitle": "Mr. Game &amp; Watch rings the bell!",
+        "cost": "#26@15",
+        "description": [
+            "Range: 50",
+            "Weight: 55",
+            "Jump: 90",
+            "Speed: 25",
+            "Dash: 80"
+        ],
+        "levels": []
+    },
+    {
+        "name": "mythra",
+        "title": "Mythra",
+        "frame": "blue",
+        "image": "characters/mythra",
+        "subtitle": "Mythra shines bright!",
+        "cost": "#80@15",
+        "description": [
+            "Range: 40",
+            "Weight: 68",
+            "Jump: 80",
+            "Speed: 49",
+            "Dash: 63"
+        ],
+        "levels": []
+    },
+    {
+        "name": "ness",
+        "title": "Ness",
+        "frame": "blue",
+        "image": "characters/ness",
+        "subtitle": "Ness swings to smash!",
+        "cost": "#10@15",
+        "description": [
+            "Range: 40",
+            "Weight: 69",
+            "Jump: 97",
+            "Speed: 29",
+            "Dash: 65"
+        ],
+        "levels": []
+    },
+    {
+        "name": "olimar",
+        "title": "Olimar",
+        "frame": "blue",
+        "image": "characters/olimar",
+        "subtitle": "Olimar crash lands!",
+        "cost": "#40@15",
+        "description": [
+            "Range: 73",
+            "Weight: 58",
+            "Jump: 98",
+            "Speed: 30",
+            "Dash: 41"
+        ],
+        "levels": []
+    },
+    {
+        "name": "pac_man",
+        "title": "Pac-Man",
+        "frame": "blue",
+        "image": "characters/pac_man",
+        "subtitle": "Pac-Man hungers for battle!",
+        "cost": "#55@15",
+        "description": [
+            "Range: 75",
+            "Weight: 70",
+            "Jump: 82",
+            "Speed: 36",
+            "Dash: 37"
+        ],
+        "levels": []
+    },
+    {
+        "name": "palutena",
+        "title": "Palutena",
+        "frame": "blue",
+        "image": "characters/palutena",
+        "subtitle": "Palutena alights!",
+        "cost": "#54@15",
+        "description": [
+            "Range: 47",
+            "Weight: 67",
+            "Jump: 91",
+            "Speed: 40",
+            "Dash: 55"
+        ],
+        "levels": []
+    },
+    {
+        "name": "peach",
+        "title": "Peach",
+        "frame": "blue",
+        "image": "characters/peach",
+        "subtitle": "Peach takes the cake!",
+        "cost": "#13@15",
+        "description": [
+            "Range: 36",
+            "Weight: 65",
+            "Jump: 83",
+            "Speed: 35",
+            "Dash: 81"
+        ],
+        "levels": []
+    },
+    {
+        "name": "pichu",
+        "title": "Pichu",
+        "frame": "blue",
+        "image": "characters/pichu",
+        "subtitle": "Pichu shockingly returns!",
+        "cost": "#19@15",
+        "description": [
+            "Range: 46",
+            "Weight: 45",
+            "Jump: 95",
+            "Speed: 54",
+            "Dash: 60"
+        ],
+        "levels": []
+    },
+    {
+        "name": "pikachu",
+        "title": "Pikachu",
+        "frame": "blue",
+        "image": "characters/pikachu",
+        "subtitle": "Pikachu storms the arena!",
+        "cost": "#8@15",
+        "description": [
+            "Range: 42",
+            "Weight: 58",
+            "Jump: 94",
+            "Speed: 28",
+            "Dash: 78"
+        ],
+        "levels": []
+    },
+    {
+        "name": "piranha_plant",
+        "title": "Piranha Plant",
+        "frame": "blue",
+        "image": "characters/piranha_plant",
+        "subtitle": "Piranha Plant pipes up!",
+        "cost": "#70@15",
+        "description": [
+            "Range: 46",
+            "Weight: 82",
+            "Jump: 85",
+            "Speed: 40",
+            "Dash: 47"
+        ],
+        "levels": []
+    },
+    {
+        "name": "pit",
+        "title": "Pit",
+        "frame": "blue",
+        "image": "characters/pit",
+        "subtitle": "Pit ascends!",
+        "cost": "#28@15",
+        "description": [
+            "Range: 42",
+            "Weight: 71",
+            "Jump: 83",
+            "Speed: 38",
+            "Dash: 66"
+        ],
+        "levels": []
+    },
+    {
+        "name": "pyra",
+        "title": "Pyra",
+        "frame": "blue",
+        "image": "characters/pyra",
+        "subtitle": "Pyra lights the flame!",
+        "cost": "#79@15",
+        "description": [
+            "Range: 46",
+            "Weight: 72",
+            "Jump: 96",
+            "Speed: 34",
+            "Dash: 52"
+        ],
+        "levels": []
+    },
+    {
+        "name": "rob",
+        "title": "R.O.B.",
+        "frame": "blue",
+        "image": "characters/rob",
+        "subtitle": "R.O.B. stacks up!",
+        "cost": "#42@15",
+        "description": [
+            "Range: 46",
+            "Weight: 79",
+            "Jump: 83",
+            "Speed: 46",
+            "Dash: 46"
+        ],
+        "levels": []
+    },
+    {
+        "name": "richter",
+        "title": "Richter",
+        "frame": "blue",
+        "image": "characters/richter",
+        "subtitle": "Richter crosses over!",
+        "cost": "#66ε@15",
+        "description": [
+            "Range: 47",
+            "Weight: 78",
+            "Jump: 88",
+            "Speed: 42",
+            "Dash: 45"
+        ],
+        "levels": []
+    },
+    {
+        "name": "ridley",
+        "title": "Ridley",
+        "frame": "blue",
+        "image": "characters/ridley",
+        "subtitle": "Ridley hits the big time!",
+        "cost": "#65@15",
+        "description": [
+            "Range: 50",
+            "Weight: 79",
+            "Jump: 93",
+            "Speed: 30",
+            "Dash: 48"
+        ],
+        "levels": []
+    },
+    {
+        "name": "robin",
+        "title": "Robin",
+        "frame": "blue",
+        "image": "characters/robin",
+        "subtitle": "Robin brings the thunder!",
+        "cost": "#56@15",
+        "description": [
+            "Range: 40",
+            "Weight: 70",
+            "Jump: 78",
+            "Speed: 23",
+            "Dash: 89"
+        ],
+        "levels": []
+    },
+    {
+        "name": "rosalina_luma",
+        "title": "Rosalina &amp; Luma",
+        "frame": "blue",
+        "image": "characters/rosalina_luma",
+        "subtitle": "Rosalina &amp; Luma launch into battle!",
+        "cost": "#48@15",
+        "description": [
+            "Range: 38",
+            "Weight: 60",
+            "Jump: 91",
+            "Speed: 33",
+            "Dash: 78"
+        ],
+        "levels": []
+    },
+    {
+        "name": "roy",
+        "title": "Roy",
+        "frame": "blue",
+        "image": "characters/roy",
+        "subtitle": "Roy seals the deal!",
+        "cost": "#25@15",
+        "description": [
+            "Range: 45",
+            "Weight: 70",
+            "Jump: 73",
+            "Speed: 58",
+            "Dash: 54"
+        ],
+        "levels": []
+    },
+    {
+        "name": "ryu",
+        "title": "Ryu",
+        "frame": "blue",
+        "image": "characters/ryu",
+        "subtitle": "Ryu Hayabusa makes the cut!",
+        "cost": "#60@15",
+        "description": [
+            "Range: 47",
+            "Weight: 76",
+            "Jump: 83",
+            "Speed: 39",
+            "Dash: 55"
+        ],
+        "levels": []
+    },
+    {
+        "name": "samus",
+        "title": "Samus",
+        "frame": "blue",
+        "image": "characters/samus",
+        "subtitle": "Samus suits up!",
+        "cost": "#4@15",
+        "description": [
+            "Range: 86",
+            "Weight: 80",
+            "Jump: 76",
+            "Speed: 26",
+            "Dash: 32"
+        ],
+        "levels": []
+    },
+    {
+        "name": "sephiroth",
+        "title": "Sephiroth",
+        "frame": "blue",
+        "image": "characters/sephiroth",
+        "subtitle": "Sephiroth descends to battle!",
+        "cost": "#78@15",
+        "description": [
+            "Range: 46",
+            "Weight: 58",
+            "Jump: 91",
+            "Speed: 42",
+            "Dash: 63"
+        ],
+        "levels": []
+    },
+    {
+        "name": "sheik",
+        "title": "Sheik",
+        "frame": "blue",
+        "image": "characters/sheik",
+        "subtitle": "Sheik appears on the scene!",
+        "cost": "#16@15",
+        "description": [
+            "Range: 46",
+            "Weight: 57",
+            "Jump: 90",
+            "Speed: 74",
+            "Dash: 33"
+        ],
+        "levels": []
+    },
+    {
+        "name": "shulk",
+        "title": "Shulk",
+        "frame": "blue",
+        "image": "characters/shulk",
+        "subtitle": "Shulk foresees a fight!",
+        "cost": "#57@15",
+        "description": [
+            "Range: 44",
+            "Weight: 71",
+            "Jump: 92",
+            "Speed: 43",
+            "Dash: 50"
+        ],
+        "levels": []
+    },
+    {
+        "name": "simon",
+        "title": "Simon",
+        "frame": "blue",
+        "image": "characters/simon",
+        "subtitle": "Simon lashes out!",
+        "cost": "#66@15",
+        "description": [
+            "Range: 47",
+            "Weight: 79",
+            "Jump: 95",
+            "Speed: 30",
+            "Dash: 49"
+        ],
+        "levels": []
+    },
+    {
+        "name": "snake",
+        "title": "Snake",
+        "frame": "blue",
+        "image": "characters/snake",
+        "subtitle": "Snake sneaks into battle!",
+        "cost": "#31@15",
+        "description": [
+            "Range: 55",
+            "Weight: 78",
+            "Jump: 80",
+            "Speed: 37",
+            "Dash: 50"
+        ],
+        "levels": []
+    },
+    {
+        "name": "sonic",
+        "title": "Sonic",
+        "frame": "blue",
+        "image": "characters/sonic",
+        "subtitle": "Sonic joins the brawl!",
+        "cost": "#38@15",
+        "description": [
+            "Range: 31",
+            "Weight: 63",
+            "Jump: 50",
+            "Speed: 99",
+            "Dash: 57"
+        ],
+        "levels": []
+    },
+    {
+        "name": "sora",
+        "title": "Sora",
+        "frame": "blue",
+        "image": "characters/sora",
+        "subtitle": "Sora unlocks the way!",
+        "cost": "#82@15",
+        "description": [
+            "Range: 46",
+            "Weight: 62",
+            "Jump: 98",
+            "Speed: 36",
+            "Dash: 58"
+        ],
+        "levels": []
+    },
+    {
+        "name": "squirtle",
+        "title": "Squirtle",
+        "frame": "blue",
+        "image": "characters/squirtle",
+        "subtitle": "Squirtle changes the tides!",
+        "cost": "#33@15",
+        "description": [
+            "Range: 49",
+            "Weight: 55",
+            "Jump: 95",
+            "Speed: 48",
+            "Dash: 53"
+        ],
+        "levels": []
+    },
+    {
+        "name": "steve",
+        "title": "Steve",
+        "frame": "blue",
+        "image": "characters/steve",
+        "subtitle": "Steve rocks the block!",
+        "cost": "#77@15",
+        "description": [
+            "Range: 80",
+            "Weight: 68",
+            "Jump: 78",
+            "Speed: 30",
+            "Dash: 44"
+        ],
+        "levels": []
+    },
+    {
+        "name": "terry",
+        "title": "Terry",
+        "frame": "blue",
+        "image": "characters/terry",
+        "subtitle": "Terry faces the fury!",
+        "cost": "#74@15",
+        "description": [
+            "Range: 49",
+            "Weight: 80",
+            "Jump: 90",
+            "Speed: 35",
+            "Dash: 46"
+        ],
+        "levels": []
+    },
+    {
+        "name": "toon_link",
+        "title": "Toon Link",
+        "frame": "blue",
+        "image": "characters/toon_link",
+        "subtitle": "Toon Link sets sail!",
+        "cost": "#43@15",
+        "description": [
+            "Range: 71",
+            "Weight: 67",
+            "Jump: 75",
+            "Speed: 37",
+            "Dash: 50"
+        ],
+        "levels": []
+    },
+    {
+        "name": "villager",
+        "title": "Villager",
+        "frame": "blue",
+        "image": "characters/villager",
+        "subtitle": "Villager comes to town!",
+        "cost": "#45@15",
+        "description": [
+            "Range: 56",
+            "Weight: 68",
+            "Jump: 83",
+            "Speed: 28",
+            "Dash: 65"
+        ],
+        "levels": []
+    },
+    {
+        "name": "wario",
+        "title": "Wario",
+        "frame": "blue",
+        "image": "characters/wario",
+        "subtitle": "Wario chews it up!",
+        "cost": "#30@15",
+        "description": [
+            "Range: 45",
+            "Weight: 79",
+            "Jump: 80",
+            "Speed: 35",
+            "Dash: 61"
+        ],
+        "levels": []
+    },
+    {
+        "name": "wii_fit_trainer",
+        "title": "Wii Fit Trainer",
+        "frame": "blue",
+        "image": "characters/wii_fit_trainer",
+        "subtitle": "Wii Fit Trainer weighs in!",
+        "cost": "#47@15",
+        "description": [
+            "Range: 33",
+            "Weight: 71",
+            "Jump: 80",
+            "Speed: 35",
+            "Dash: 81"
+        ],
+        "levels": []
+    },
+    {
+        "name": "wolf",
+        "title": "Wolf",
+        "frame": "blue",
+        "image": "characters/wolf",
+        "subtitle": "Wolf ends the playtime!",
+        "cost": "#44@15",
+        "description": [
+            "Range: 44",
+            "Weight: 68",
+            "Jump: 85",
+            "Speed: 48",
+            "Dash: 55"
+        ],
+        "levels": []
+    },
+    {
+        "name": "yoshi",
+        "title": "Yoshi",
+        "frame": "blue",
+        "image": "characters/yoshi",
+        "subtitle": "Yoshi rolls into battle!",
+        "cost": "#5@15",
+        "description": [
+            "Range: 58",
+            "Weight: 77",
+            "Jump: 68",
+            "Speed: 40",
+            "Dash: 57"
+        ],
+        "levels": []
+    },
+    {
+        "name": "young_link",
+        "title": "Young Link",
+        "frame": "blue",
+        "image": "characters/young_link",
+        "subtitle": "Young Link tunes in!",
+        "cost": "#22@15",
+        "description": [
+            "Range: 77",
+            "Weight: 65",
+            "Jump: 72",
+            "Speed: 30",
+            "Dash: 56"
+        ],
+        "levels": []
+    },
+    {
+        "name": "zelda",
+        "title": "Zelda",
+        "frame": "blue",
+        "image": "characters/zelda",
+        "subtitle": "Zelda brings the wisdom!",
+        "cost": "#17@15",
+        "description": [
+            "Range: 45",
+            "Weight: 62",
+            "Jump: 82",
+            "Speed: 27",
+            "Dash: 84"
+        ],
+        "levels": []
+    },
+    {
+        "name": "zero_suit_samus",
+        "title": "Zero Suit Samus",
+        "frame": "blue",
+        "image": "characters/zero_suit_samus",
+        "subtitle": "Zero Suit Samus zeroes in!",
+        "cost": "#29@15",
+        "description": [
+            "Range: 72",
+            "Weight: 59",
+            "Jump: 70",
+            "Speed: 49",
+            "Dash: 50"
+        ],
+        "levels": []
     }
 ]
