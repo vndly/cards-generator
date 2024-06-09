@@ -20,5 +20,16 @@
         "characters/characters/dr_mario.png",
         "characters/characters/duck_hunt.png",
         "characters/characters/falco.png"
+    ],
+    [
+        "characters/characters/fox.png",
+        "characters/characters/ganondorf.png",
+        "characters/characters/greninja.png",
+        "characters/characters/hero.png",
+        "characters/characters/ice_climbers.png",
+        "characters/characters/ike.png",
+        "characters/characters/incineroar.png",
+        "characters/characters/inkling.png",
+        "characters/characters/isabelle.png"
     ]
 ]
