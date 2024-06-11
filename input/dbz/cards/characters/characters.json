@@ -1,0 +1,104 @@
+[
+    {
+        "name": "goku",
+        "title": "Goku",
+        "frame": "artifact",
+        "image": "characters/goku",
+        "subtitle": "Saiyan",
+        "cost": "",
+        "description": [
+            "Strength: 96",
+            "Endurance: 95",
+            "Speed: 91",
+            "Technique: 89",
+            "Ki: 99",
+            "Intelligence: 80"
+        ],
+        "levels": []
+    },
+    {
+        "name": "super_buu",
+        "title": "Super Buu",
+        "frame": "artifact",
+        "image": "characters/super_buu",
+        "subtitle": "Majin",
+        "cost": "",
+        "description": [
+            "Strength: 98",
+            "Endurance: 94",
+            "Speed: 91",
+            "Technique: 88",
+            "Ki: 93",
+            "Intelligence: 80"
+        ],
+        "levels": []
+    },
+    {
+        "name": "kid_buu",
+        "title": "Kid Buu",
+        "frame": "artifact",
+        "image": "characters/kid_buu",
+        "subtitle": "Majin",
+        "cost": "",
+        "description": [
+            "Strength: 92",
+            "Endurance: 95",
+            "Speed: 97",
+            "Technique: 87",
+            "Ki: 89",
+            "Intelligence: 78"
+        ],
+        "levels": []
+    },
+    {
+        "name": "innocent_buu",
+        "title": "Innocent Buu",
+        "frame": "artifact",
+        "image": "characters/innocent_buu",
+        "subtitle": "Majin",
+        "cost": "",
+        "description": [
+            "Strength: 95",
+            "Endurance: 96",
+            "Speed: 90",
+            "Technique: 86",
+            "Ki: 89",
+            "Intelligence: 76"
+        ],
+        "levels": []
+    },
+    {
+        "name": "vegeta",
+        "title": "Vegeta",
+        "frame": "artifact",
+        "image": "characters/vegeta",
+        "subtitle": "Saiyan",
+        "cost": "",
+        "description": [
+            "Strength: 89",
+            "Endurance: 88",
+            "Speed: 82",
+            "Technique: 95",
+            "Ki: 87",
+            "Intelligence: 85"
+        ],
+        "levels": []
+    },
+    {
+        "name": "gohan",
+        "title": "Gohan",
+        "frame": "artifact",
+        "image": "characters/gohan",
+        "subtitle": "Saiyan/Human",
+        "cost": "",
+        "description": [
+            "Strength: 81",
+            "Endurance: 85",
+            "Speed: 83",
+            "Technique: 90",
+            "Ki: 87",
+            "Intelligence: 94"
+        ],
+        "levels": []
+    }
+]

@@ -2,7 +2,7 @@
 
 set -e
 
-GAME="smash"
+GAME="dbz"
 
 BASE_DIR=`dirname $0`
 TEMP="${BASE_DIR}/../temp"
