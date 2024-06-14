@@ -508,5 +508,107 @@
             "Intelligence: 50"
         ],
         "levels": []
+    },
+    {
+        "name": "burter",
+        "title": "Burter",
+        "frame": "red",
+        "image": "characters/burter",
+        "subtitle": "Mutant",
+        "cost": "",
+        "description": [
+            "Strength: 69",
+            "Endurance: 63",
+            "Speed: 62",
+            "Technique: 49",
+            "Ki: 61",
+            "Intelligence: 66"
+        ],
+        "levels": []
+    },
+    {
+        "name": "recoome",
+        "title": "Recoome",
+        "frame": "red",
+        "image": "characters/recoome",
+        "subtitle": "Mutant",
+        "cost": "",
+        "description": [
+            "Strength: 48",
+            "Endurance: 64",
+            "Speed: 68",
+            "Technique: 61",
+            "Ki: 63",
+            "Intelligence: 60"
+        ],
+        "levels": []
+    },
+    {
+        "name": "guldo",
+        "title": "Guldo",
+        "frame": "red",
+        "image": "characters/guldo",
+        "subtitle": "Mutant",
+        "cost": "",
+        "description": [
+            "Strength: 61",
+            "Endurance: 67",
+            "Speed: 62",
+            "Technique: 63",
+            "Ki: 47",
+            "Intelligence: 58"
+        ],
+        "levels": []
+    },
+    {
+        "name": "nappa",
+        "title": "Nappa",
+        "frame": "red",
+        "image": "characters/nappa",
+        "subtitle": "Saiyan",
+        "cost": "",
+        "description": [
+            "Strength: 63",
+            "Endurance: 46",
+            "Speed: 62",
+            "Technique: 66",
+            "Ki: 64",
+            "Intelligence: 51"
+        ],
+        "levels": []
+    },
+    {
+        "name": "raditz",
+        "title": "Raditz",
+        "frame": "red",
+        "image": "characters/raditz",
+        "subtitle": "Saiyan",
+        "cost": "",
+        "description": [
+            "Strength: 62",
+            "Endurance: 63",
+            "Speed: 45",
+            "Technique: 64",
+            "Ki: 65",
+            "Intelligence: 47"
+        ],
+        "levels": []
+    },
+    {
+        "name": "bulma",
+        "title": "Bulma",
+        "frame": "red",
+        "image": "characters/bulma",
+        "subtitle": "Human",
+        "cost": "",
+        "description": [
+            "Strength: 1",
+            "Endurance: 1",
+            "Speed: 1",
+            "Technique: 1",
+            "Ki: 1",
+            "Intelligence: 99"
+        ],
+        "levels": []
     }
 ]
