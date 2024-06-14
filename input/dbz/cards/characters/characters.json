@@ -304,5 +304,107 @@
             "Intelligence: 82"
         ],
         "levels": []
+    },
+    {
+        "name": "king_cold",
+        "title": "King Cold",
+        "frame": "green",
+        "image": "characters/king_cold",
+        "subtitle": "Frost Demon",
+        "cost": "",
+        "description": [
+            "Strength: 77",
+            "Endurance: 81",
+            "Speed: 75",
+            "Technique: 72",
+            "Ki: 61",
+            "Intelligence: 76"
+        ],
+        "levels": []
+    },
+    {
+        "name": "shin",
+        "title": "Shin",
+        "frame": "green",
+        "image": "characters/shin",
+        "subtitle": "Kai",
+        "cost": "",
+        "description": [
+            "Strength: 70",
+            "Endurance: 73",
+            "Speed: 60",
+            "Technique: 80",
+            "Ki: 75",
+            "Intelligence: 78"
+        ],
+        "levels": []
+    },
+    {
+        "name": "kibito",
+        "title": "Kibito",
+        "frame": "green",
+        "image": "characters/kibito",
+        "subtitle": "Kai",
+        "cost": "",
+        "description": [
+            "Strength: 59",
+            "Endurance: 72",
+            "Speed: 71",
+            "Technique: 74",
+            "Ki: 75",
+            "Intelligence: 79"
+        ],
+        "levels": []
+    },
+    {
+        "name": "krillin",
+        "title": "Krillin",
+        "frame": "green",
+        "image": "characters/krillin",
+        "subtitle": "Human",
+        "cost": "",
+        "description": [
+            "Strength: 78",
+            "Endurance: 76",
+            "Speed: 73",
+            "Technique: 75",
+            "Ki: 64",
+            "Intelligence: 58"
+        ],
+        "levels": []
+    },
+    {
+        "name": "tien_shinhan",
+        "title": "Tien Shinhan",
+        "frame": "green",
+        "image": "characters/tien_shinhan",
+        "subtitle": "Human/Triclops",
+        "cost": "",
+        "description": [
+            "Strength: 72",
+            "Endurance: 69",
+            "Speed: 70",
+            "Technique: 57",
+            "Ki: 77",
+            "Intelligence: 73"
+        ],
+        "levels": []
+    },
+    {
+        "name": "yamcha",
+        "title": "Yamcha",
+        "frame": "green",
+        "image": "characters/yamcha",
+        "subtitle": "Human",
+        "cost": "",
+        "description": [
+            "Strength: 71",
+            "Endurance: 56",
+            "Speed: 76",
+            "Technique: 68",
+            "Ki: 69",
+            "Intelligence: 72"
+        ],
+        "levels": []
     }
 ]
