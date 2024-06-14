@@ -406,5 +406,107 @@
             "Intelligence: 72"
         ],
         "levels": []
+    },
+    {
+        "name": "chiaotzu",
+        "title": "Chiaotzu",
+        "frame": "land",
+        "image": "characters/chiaotzu",
+        "subtitle": "Human",
+        "cost": "",
+        "description": [
+            "Strength: 55",
+            "Endurance: 69",
+            "Speed: 70",
+            "Technique: 75",
+            "Ki: 66",
+            "Intelligence: 71"
+        ],
+        "levels": []
+    },
+    {
+        "name": "yajirobe",
+        "title": "Yajirobe",
+        "frame": "land",
+        "image": "characters/yajirobe",
+        "subtitle": "Human",
+        "cost": "",
+        "description": [
+            "Strength: 67",
+            "Endurance: 69",
+            "Speed: 74",
+            "Technique: 54",
+            "Ki: 65",
+            "Intelligence: 71"
+        ],
+        "levels": []
+    },
+    {
+        "name": "master_roshi",
+        "title": "Master Roshi",
+        "frame": "land",
+        "image": "characters/master_roshi",
+        "subtitle": "Human",
+        "cost": "",
+        "description": [
+            "Strength: 70",
+            "Endurance: 61",
+            "Speed: 53",
+            "Technique: 72",
+            "Ki: 73",
+            "Intelligence: 65"
+        ],
+        "levels": []
+    },
+    {
+        "name": "babidi",
+        "title": "Babidi",
+        "frame": "land",
+        "image": "characters/babidi",
+        "subtitle": "Alien",
+        "cost": "",
+        "description": [
+            "Strength: 64",
+            "Endurance: 52",
+            "Speed: 65",
+            "Technique: 68",
+            "Ki: 67",
+            "Intelligence: 72"
+        ],
+        "levels": []
+    },
+    {
+        "name": "captain_ginyu",
+        "title": "Captain Ginyu",
+        "frame": "land",
+        "image": "characters/captain_ginyu",
+        "subtitle": "Mutant",
+        "cost": "",
+        "description": [
+            "Strength: 71",
+            "Endurance: 69",
+            "Speed: 70",
+            "Technique: 60",
+            "Ki: 51",
+            "Intelligence: 61"
+        ],
+        "levels": []
+    },
+    {
+        "name": "jeice",
+        "title": "Jeice",
+        "frame": "land",
+        "image": "characters/jeice",
+        "subtitle": "Mutant",
+        "cost": "",
+        "description": [
+            "Strength: 64",
+            "Endurance: 70",
+            "Speed: 67",
+            "Technique: 63",
+            "Ki: 62",
+            "Intelligence: 50"
+        ],
+        "levels": []
     }
 ]
