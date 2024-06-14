@@ -9,27 +9,10 @@
         "description": [
             "Strength: 96",
             "Endurance: 95",
-            "Speed: 91",
+            "Speed: 92",
             "Technique: 89",
             "Ki: 99",
-            "Intelligence: 80"
-        ],
-        "levels": []
-    },
-    {
-        "name": "super_buu",
-        "title": "Super Buu",
-        "frame": "artifact",
-        "image": "characters/super_buu",
-        "subtitle": "Majin",
-        "cost": "",
-        "description": [
-            "Strength: 98",
-            "Endurance: 94",
-            "Speed: 91",
-            "Technique: 88",
-            "Ki: 93",
-            "Intelligence: 80"
+            "Intelligence: 79"
         ],
         "levels": []
     },
@@ -41,12 +24,29 @@
         "subtitle": "Majin",
         "cost": "",
         "description": [
-            "Strength: 92",
+            "Strength: 98",
+            "Endurance: 78",
+            "Speed: 93",
+            "Technique: 91",
+            "Ki: 95",
+            "Intelligence: 89"
+        ],
+        "levels": []
+    },
+    {
+        "name": "super_buu",
+        "title": "Super Buu",
+        "frame": "artifact",
+        "image": "characters/super_buu",
+        "subtitle": "Majin",
+        "cost": "",
+        "description": [
+            "Strength: 94",
             "Endurance: 95",
             "Speed: 97",
-            "Technique: 87",
-            "Ki: 89",
-            "Intelligence: 78"
+            "Technique: 77",
+            "Ki: 90",
+            "Intelligence: 85"
         ],
         "levels": []
     },
@@ -60,10 +60,10 @@
         "description": [
             "Strength: 95",
             "Endurance: 96",
-            "Speed: 90",
-            "Technique: 86",
-            "Ki: 89",
-            "Intelligence: 76"
+            "Speed: 92",
+            "Technique: 87",
+            "Ki: 76",
+            "Intelligence: 86"
         ],
         "levels": []
     },
@@ -75,12 +75,12 @@
         "subtitle": "Saiyan",
         "cost": "",
         "description": [
-            "Strength: 89",
-            "Endurance: 88",
-            "Speed: 82",
+            "Strength: 92",
+            "Endurance: 80",
+            "Speed: 75",
             "Technique: 95",
-            "Ki: 87",
-            "Intelligence: 85"
+            "Ki: 91",
+            "Intelligence: 93"
         ],
         "levels": []
     },
@@ -92,12 +92,114 @@
         "subtitle": "Saiyan/Human",
         "cost": "",
         "description": [
-            "Strength: 81",
-            "Endurance: 85",
-            "Speed: 83",
-            "Technique: 90",
-            "Ki: 87",
+            "Strength: 74",
+            "Endurance: 84",
+            "Speed: 86",
+            "Technique: 89",
+            "Ki: 93",
             "Intelligence: 94"
+        ],
+        "levels": []
+    },
+    {
+        "name": "trunks",
+        "title": "Trunks",
+        "frame": "blue",
+        "image": "characters/trunks",
+        "subtitle": "Saiyan/Human",
+        "cost": "",
+        "description": [
+            "Strength: 89",
+            "Endurance: 73",
+            "Speed: 87",
+            "Technique: 84",
+            "Ki: 93",
+            "Intelligence: 88"
+        ],
+        "levels": []
+    },
+    {
+        "name": "goten",
+        "title": "Goten",
+        "frame": "blue",
+        "image": "characters/goten",
+        "subtitle": "Saiyan/Human",
+        "cost": "",
+        "description": [
+            "Strength: 72",
+            "Endurance: 83",
+            "Speed: 92",
+            "Technique: 87",
+            "Ki: 88",
+            "Intelligence: 86"
+        ],
+        "levels": []
+    },
+    {
+        "name": "dabura",
+        "title": "Dabura",
+        "frame": "blue",
+        "image": "characters/dabura",
+        "subtitle": "Demon",
+        "cost": "",
+        "description": [
+            "Strength: 91",
+            "Endurance: 89",
+            "Speed: 85",
+            "Technique: 82",
+            "Ki: 84",
+            "Intelligence: 71"
+        ],
+        "levels": []
+    },
+    {
+        "name": "cell",
+        "title": "Cell",
+        "frame": "blue",
+        "image": "characters/cell",
+        "subtitle": "Bio-android",
+        "cost": "",
+        "description": [
+            "Strength: 87",
+            "Endurance: 90",
+            "Speed: 84",
+            "Technique: 83",
+            "Ki: 70",
+            "Intelligence: 82"
+        ],
+        "levels": []
+    },
+    {
+        "name": "frieza",
+        "title": "Frieza",
+        "frame": "blue",
+        "image": "characters/frieza",
+        "subtitle": "Frost Demon",
+        "cost": "",
+        "description": [
+            "Strength: 82",
+            "Endurance: 86",
+            "Speed: 83",
+            "Technique: 69",
+            "Ki: 81",
+            "Intelligence: 89"
+        ],
+        "levels": []
+    },
+    {
+        "name": "piccolo",
+        "title": "Piccolo",
+        "frame": "blue",
+        "image": "characters/piccolo",
+        "subtitle": "Namekian",
+        "cost": "",
+        "description": [
+            "Strength: 79",
+            "Endurance: 83",
+            "Speed: 68",
+            "Technique: 88",
+            "Ki: 85",
+            "Intelligence: 81"
         ],
         "levels": []
     }

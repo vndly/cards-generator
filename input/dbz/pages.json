@@ -1,13 +1,24 @@
 [
     [
         "characters/characters/goku.png",
-        "characters/characters/super_buu.png",
         "characters/characters/kid_buu.png",
+        "characters/characters/super_buu.png",
         "characters/characters/innocent_buu.png",
         "characters/characters/vegeta.png",
         "characters/characters/gohan.png",
-        "characters/characters/gohan.png",
-        "characters/characters/gohan.png",
-        "characters/characters/gohan.png"
+        "characters/characters/trunks.png",
+        "characters/characters/goten.png",
+        "characters/characters/dabura.png"
+    ],
+    [
+        "characters/characters/cell.png",
+        "characters/characters/frieza.png",
+        "characters/characters/piccolo.png",
+        "characters/characters/piccolo.png",
+        "characters/characters/piccolo.png",
+        "characters/characters/piccolo.png",
+        "characters/characters/piccolo.png",
+        "characters/characters/piccolo.png",
+        "characters/characters/piccolo.png"
     ]
 ]
