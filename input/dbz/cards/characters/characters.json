@@ -202,5 +202,107 @@
             "Intelligence: 81"
         ],
         "levels": []
+    },
+    {
+        "name": "uub",
+        "title": "Uub",
+        "frame": "gold",
+        "image": "characters/uub",
+        "subtitle": "Human",
+        "cost": "",
+        "description": [
+            "Strength: 83",
+            "Endurance: 80",
+            "Speed: 82",
+            "Technique: 67",
+            "Ki: 87",
+            "Intelligence: 79"
+        ],
+        "levels": []
+    },
+    {
+        "name": "android_17",
+        "title": "Android 17",
+        "frame": "gold",
+        "image": "characters/android_17",
+        "subtitle": "Android",
+        "cost": "",
+        "description": [
+            "Strength: 66",
+            "Endurance: 82",
+            "Speed: 86",
+            "Technique: 84",
+            "Ki: 73",
+            "Intelligence: 81"
+        ],
+        "levels": []
+    },
+    {
+        "name": "android_18",
+        "title": "Android 18",
+        "frame": "gold",
+        "image": "characters/android_18",
+        "subtitle": "Android",
+        "cost": "",
+        "description": [
+            "Strength: 83",
+            "Endurance: 82",
+            "Speed: 65",
+            "Technique: 85",
+            "Ki: 70",
+            "Intelligence: 81"
+        ],
+        "levels": []
+    },
+    {
+        "name": "android_16",
+        "title": "Android 16",
+        "frame": "gold",
+        "image": "characters/android_16",
+        "subtitle": "Android",
+        "cost": "",
+        "description": [
+            "Strength: 84",
+            "Endurance: 81",
+            "Speed: 83",
+            "Technique: 82",
+            "Ki: 66",
+            "Intelligence: 64"
+        ],
+        "levels": []
+    },
+    {
+        "name": "android_19",
+        "title": "Android 19",
+        "frame": "gold",
+        "image": "characters/android_19",
+        "subtitle": "Android",
+        "cost": "",
+        "description": [
+            "Strength: 73",
+            "Endurance: 83",
+            "Speed: 76",
+            "Technique: 78",
+            "Ki: 63",
+            "Intelligence: 81"
+        ],
+        "levels": []
+    },
+    {
+        "name": "dr_gero",
+        "title": "Dr. Gero",
+        "frame": "gold",
+        "image": "characters/dr_gero",
+        "subtitle": "Android",
+        "cost": "",
+        "description": [
+            "Strength: 78",
+            "Endurance: 62",
+            "Speed: 80",
+            "Technique: 79",
+            "Ki: 67",
+            "Intelligence: 82"
+        ],
+        "levels": []
     }
 ]
