@@ -2,6 +2,8 @@
 
 set -e
 
+#GAME="mafia"
+#GAME="smash"
 GAME="dbz"
 
 BASE_DIR=`dirname $0`
