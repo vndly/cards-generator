@@ -7,36 +7,40 @@ fs.readdir(`input/${gameName}/cards`, (err, files) => {
     files.forEach(file1 => {
         fs.readdir(`input/${gameName}/cards/${file1}`, (err, files) => {
             files.forEach(file2 => {
-                const json = JSON.parse(fs.readFileSync(`input/${gameName}/cards/${file1}/${file2}`, 'utf-8'))
-
-                for (const entry of json) {
-                    const path = `${file1}/${file2.replace('.json', '')}/`
-
-                    console.log(`Generating card: ${entry.name}...`);
-
-                    const card = helpers.generateSvg(
-                        gameName,
-                        entry.title,
-                        cardFrame(entry.frame),
-                        cardImage(entry.image),
-                        entry.subtitle,
-                        entry.cost ?? '',
-                        entry.description,
-                        entry.levels
-                    )
-
-                    generateSvg(
-                        path,
-                        `${entry.name}.svg`,
-                        card,
-                    )
-
-                    convertSvg2Png(`${path}${entry.name}`)
-                }
+                processFile(file1, file2, gameName)
             })
         })
     })
 })
+
+function processFile(file1, file2, gameName) {
+    const json = JSON.parse(fs.readFileSync(`input/${gameName}/cards/${file1}/${file2}`, 'utf-8'))
+
+    for (const entry of json) {
+        const path = `${file1}/${file2.replace('.json', '')}/`
+
+        console.log(`Generating card: ${entry.name}...`);
+
+        const card = helpers.generateSvg(
+            gameName,
+            entry.title,
+            cardFrame(entry.frame),
+            cardImage(entry.image),
+            entry.subtitle,
+            entry.cost ?? '',
+            entry.description,
+            entry.levels
+        )
+
+        generateSvg(
+            path,
+            `${entry.name}.svg`,
+            card,
+        )
+
+        convertSvg2Png(`${path}${entry.name}`)
+    }
+}
 
 function convertSvg2Png(name) {
     const exec = require('child_process').execSync
@@ -61,11 +65,13 @@ function generateSvg(path, name, card) {
     try {
         fs.mkdirSync(`temp/png/${path}`, { recursive: true })
     } catch (e) {
+        // ignore
     }
 
     try {
         fs.mkdirSync(`temp/svg/${path}`, { recursive: true })
     } catch (e) {
+        // ignore
     }
 
     fs.writeFileSync(`temp/svg/${path}${name}`, card)
