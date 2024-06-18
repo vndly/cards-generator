@@ -4,7 +4,7 @@ function descriptionLine(text, index) {
     return `<tspan sodipodi:role="line" style="font-size:14px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
 }
 
-function generateSvg(template, title, subtitle, frame, image, cost, description, levels) {
+function generateSvg(gameName, template, title, subtitle, frame, image, cost, description, levels) {
     const card = template
         .replace('{{TITLE}}', title)
         .replace('{{SUBTITLE}}', subtitle)

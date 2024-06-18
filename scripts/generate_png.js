@@ -24,6 +24,7 @@ function processFile(file1, file2, gameName) {
         const template = fs.readFileSync(`input/${gameName}/templates/template_card.svg`, 'utf-8')
 
         const card = helpers.generateSvg(
+            gameName,
             template,
             entry.title,
             entry.subtitle,
