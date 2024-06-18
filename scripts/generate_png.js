@@ -21,12 +21,14 @@ function processFile(file1, file2, gameName) {
 
         console.log(`Generating card: ${entry.name}...`);
 
+        const template = fs.readFileSync(`input/${gameName}/templates/template_card.svg`, 'utf-8')
+
         const card = helpers.generateSvg(
-            gameName,
+            template,
             entry.title,
+            entry.subtitle,
             cardFrame(entry.frame),
             cardImage(entry.image),
-            entry.subtitle,
             entry.cost ?? '',
             entry.description,
             entry.levels
