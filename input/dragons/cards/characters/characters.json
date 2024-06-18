@@ -7,7 +7,14 @@
         "subtitle": "",
         "cost": "",
         "description": [],
-        "levels": []
+        "levels": [
+            11,
+            22,
+            33,
+            44,
+            55,
+            66
+        ]
     },
     {
         "name": "t1b",
@@ -17,7 +24,14 @@
         "subtitle": "",
         "cost": "",
         "description": [],
-        "levels": []
+        "levels": [
+            12,
+            34,
+            56,
+            78,
+            90,
+            99
+        ]
     },
     {
         "name": "t1c",
@@ -27,6 +41,13 @@
         "subtitle": "",
         "cost": "",
         "description": [],
-        "levels": []
+        "levels": [
+            21,
+            43,
+            65,
+            87,
+            91,
+            92
+        ]
     }
 ]
