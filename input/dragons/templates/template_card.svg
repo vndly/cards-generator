@@ -23,7 +23,7 @@
          inkscape:deskcolor="#d1d1d1"
          inkscape:document-units="mm"
          inkscape:zoom="0.39007"
-         inkscape:cx="592.2"
+         inkscape:cx="564"
          inkscape:cy="892.15"
          inkscape:window-width="1920"
          inkscape:window-height="1016"
@@ -45,16 +45,17 @@
              x="2.8422e-14"
              y="-0.0050049" /><text
              style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
+             text-anchor="start"
+             dominant-baseline="start"
              x="32.115"
              y="48.92"
              id="text376"><tspan
                  sodipodi:role="line"
                  id="tspantitle"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.25"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';direction:ltr;stroke-width:0.25"
                  x="32.115"
-                 y="48.92">
-				{{TITLE}}
-			</tspan></text><text
+                 y="48.92">{{TITLE}}</tspan></text>
+                 <text
              style="font-style:normal;font-weight:normal;font-size:10.583px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264563"
              text-anchor="middle"
              dominant-baseline="middle"
