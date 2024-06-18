@@ -1,0 +1,32 @@
+[
+    {
+        "name": "t1a",
+        "title": "T1A",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "t1b",
+        "title": "T1B",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "t1c",
+        "title": "T1C",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    }
+]

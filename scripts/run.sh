@@ -2,9 +2,10 @@
 
 set -e
 
-GAME="mafia"
+#GAME="mafia"
 #GAME="smash"
 #GAME="dbz"
+GAME="dragons"
 
 BASE_DIR=`dirname $0`
 TEMP="${BASE_DIR}/../temp"
