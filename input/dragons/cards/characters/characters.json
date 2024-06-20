@@ -5,7 +5,7 @@
         "frame": "artifact",
         "image": "characters/empty",
         "subtitle": "",
-        "cost": "",
+        "cost": "3",
         "description": [],
         "levels": [
             11,
@@ -22,7 +22,7 @@
         "frame": "artifact",
         "image": "characters/empty",
         "subtitle": "",
-        "cost": "",
+        "cost": "2",
         "description": [],
         "levels": [
             12,
@@ -39,7 +39,7 @@
         "frame": "artifact",
         "image": "characters/empty",
         "subtitle": "",
-        "cost": "",
+        "cost": "1",
         "description": [],
         "levels": [
             21,

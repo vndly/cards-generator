@@ -2,6 +2,7 @@ function generateSvg(gameName, template, title, subtitle, frame, image, cost, de
     const card = template
         .replace('{{TITLE}}', title)
         .replace('{{FRAME}}', frame)
+        .replace('{{COST}}', cost)
         .replace('{{VALUE1}}', levels[0])
         .replace('{{VALUE2}}', levels[1])
         .replace('{{VALUE3}}', levels[2])
