@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "command": "./scripts/run.sh",
+      "name": "Run",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+  ]
+}
