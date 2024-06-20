@@ -1,13 +1,46 @@
 [
     [
         "characters/characters/t1a.png",
-        "characters/characters/t1a.png",
-        "characters/characters/t1a.png",
-        "characters/characters/t1b.png",
-        "characters/characters/t1b.png",
         "characters/characters/t1b.png",
         "characters/characters/t1c.png",
-        "characters/characters/t1c.png",
-        "characters/characters/t1c.png"
+        "characters/characters/t1d.png",
+        "characters/characters/t1e.png",
+        "characters/characters/t1f.png",
+        "characters/characters/t2a.png",
+        "characters/characters/t2b.png",
+        "characters/characters/t2c.png"
+    ],
+    [
+        "characters/characters/t2d.png",
+        "characters/characters/t2e.png",
+        "characters/characters/t2f.png",
+        "characters/characters/t3a.png",
+        "characters/characters/t3b.png",
+        "characters/characters/t3c.png",
+        "characters/characters/t3d.png",
+        "characters/characters/t3e.png",
+        "characters/characters/t3f.png"
+    ],
+    [
+        "characters/characters/t4a.png",
+        "characters/characters/t4b.png",
+        "characters/characters/t4c.png",
+        "characters/characters/t4d.png",
+        "characters/characters/t4e.png",
+        "characters/characters/t4f.png",
+        "characters/characters/t5a.png",
+        "characters/characters/t5b.png",
+        "characters/characters/t5c.png"
+    ],
+    [
+        "characters/characters/t5d.png",
+        "characters/characters/t5e.png",
+        "characters/characters/t5f.png",
+        "characters/characters/t6a.png",
+        "characters/characters/t6b.png",
+        "characters/characters/t6c.png",
+        "characters/characters/t6d.png",
+        "characters/characters/t6e.png",
+        "characters/characters/t6f.png"
     ]
 ]

@@ -8,12 +8,12 @@
         "cost": "3",
         "description": [],
         "levels": [
-            11,
-            22,
-            33,
-            44,
-            55,
-            66
+            26,
+            30,
+            17,
+            25,
+            23,
+            36
         ]
     },
     {
@@ -22,15 +22,15 @@
         "frame": "artifact",
         "image": "characters/empty",
         "subtitle": "",
-        "cost": "2",
+        "cost": "3",
         "description": [],
         "levels": [
-            12,
-            34,
-            56,
-            78,
-            90,
-            99
+            36,
+            30,
+            23,
+            17,
+            25,
+            26
         ]
     },
     {
@@ -39,15 +39,576 @@
         "frame": "artifact",
         "image": "characters/empty",
         "subtitle": "",
-        "cost": "1",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            26,
+            36,
+            22,
+            23,
+            17,
+            33
+        ]
+    },
+    {
+        "name": "t1d",
+        "title": "T1D",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            25,
+            20,
+            36,
+            27,
+            32,
+            17
+        ]
+    },
+    {
+        "name": "t1e",
+        "title": "T1E",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            17,
+            21,
+            27,
+            36,
+            22,
+            34
+        ]
+    },
+    {
+        "name": "t1f",
+        "title": "T1F",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            17,
+            32,
+            21,
+            18,
+            36,
+            33
+        ]
+    },
+    {
+        "name": "t2a",
+        "title": "T2A",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            20,
+            31,
+            22,
+            16,
+            35,
+            27
+        ]
+    },
+    {
+        "name": "t2b",
+        "title": "T2B",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            31,
+            17,
+            32,
+            20,
+            16,
+            35
+        ]
+    },
+    {
+        "name": "t2c",
+        "title": "T2C",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            35,
+            26,
+            25,
+            16,
+            20,
+            29
+        ]
+    },
+    {
+        "name": "t2d",
+        "title": "T2D",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
         "description": [],
         "levels": [
             21,
-            43,
-            65,
-            87,
-            91,
-            92
+            35,
+            25,
+            26,
+            28,
+            16
+        ]
+    },
+    {
+        "name": "t2e",
+        "title": "T2E",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            21,
+            26,
+            35,
+            25,
+            28,
+            16
+        ]
+    },
+    {
+        "name": "t2f",
+        "title": "T2F",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "3",
+        "description": [],
+        "levels": [
+            15,
+            33,
+            16,
+            35,
+            34,
+            18
+        ]
+    },
+    {
+        "name": "t3a",
+        "title": "T3A",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            20,
+            15,
+            24,
+            34,
+            22,
+            30
+        ]
+    },
+    {
+        "name": "t3b",
+        "title": "T3B",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            15,
+            20,
+            25,
+            19,
+            34,
+            32
+        ]
+    },
+    {
+        "name": "t3c",
+        "title": "T3C",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            22,
+            15,
+            23,
+            31,
+            20,
+            34
+        ]
+    },
+    {
+        "name": "t3d",
+        "title": "T3D",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            34,
+            26,
+            15,
+            18,
+            24,
+            28
+        ]
+    },
+    {
+        "name": "t3e",
+        "title": "T3E",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            17,
+            34,
+            33,
+            21,
+            15,
+            25
+        ]
+    },
+    {
+        "name": "t3f",
+        "title": "T3F",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            15,
+            30,
+            34,
+            21,
+            27,
+            18
+        ]
+    },
+    {
+        "name": "t4a",
+        "title": "T4A",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            14,
+            24,
+            33,
+            21,
+            15,
+            32
+        ]
+    },
+    {
+        "name": "t4b",
+        "title": "T4B",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            32,
+            17,
+            16,
+            33,
+            14,
+            27
+        ]
+    },
+    {
+        "name": "t4c",
+        "title": "T4C",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            25,
+            29,
+            18,
+            14,
+            33,
+            20
+        ]
+    },
+    {
+        "name": "t4d",
+        "title": "T4D",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            19,
+            18,
+            14,
+            23,
+            32,
+            33
+        ]
+    },
+    {
+        "name": "t4e",
+        "title": "T4E",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            33,
+            19,
+            28,
+            14,
+            20,
+            25
+        ]
+    },
+    {
+        "name": "t4f",
+        "title": "T4F",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "2",
+        "description": [],
+        "levels": [
+            24,
+            33,
+            21,
+            14,
+            32,
+            15
+        ]
+    },
+    {
+        "name": "t5a",
+        "title": "T5A",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            28,
+            32,
+            29,
+            15,
+            13,
+            16
+        ]
+    },
+    {
+        "name": "t5b",
+        "title": "T5B",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            13,
+            21,
+            32,
+            15,
+            30,
+            22
+        ]
+    },
+    {
+        "name": "t5c",
+        "title": "T5C",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            22,
+            31,
+            21,
+            32,
+            14,
+            13
+        ]
+    },
+    {
+        "name": "t5d",
+        "title": "T5D",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            25,
+            18,
+            13,
+            31,
+            32,
+            14
+        ]
+    },
+    {
+        "name": "t5e",
+        "title": "T5E",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            23,
+            18,
+            30,
+            17,
+            13,
+            32
+        ]
+    },
+    {
+        "name": "t5f",
+        "title": "T5F",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            32,
+            22,
+            18,
+            27,
+            13,
+            21
+        ]
+    },
+    {
+        "name": "t6a",
+        "title": "T6A",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            31,
+            18,
+            23,
+            24,
+            12,
+            19
+        ]
+    },
+    {
+        "name": "t6b",
+        "title": "T6B",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            13,
+            31,
+            29,
+            12,
+            17,
+            25
+        ]
+    },
+    {
+        "name": "t6c",
+        "title": "T6C",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            18,
+            12,
+            31,
+            13,
+            28,
+            25
+        ]
+    },
+    {
+        "name": "t6d",
+        "title": "T6D",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            12,
+            28,
+            24,
+            31,
+            17,
+            15
+        ]
+    },
+    {
+        "name": "t6e",
+        "title": "T6E",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            18,
+            21,
+            12,
+            31,
+            28,
+            17
+        ]
+    },
+    {
+        "name": "t6f",
+        "title": "T6F",
+        "frame": "artifact",
+        "image": "characters/empty",
+        "subtitle": "",
+        "cost": "1",
+        "description": [],
+        "levels": [
+            16,
+            13,
+            29,
+            12,
+            26,
+            31
         ]
     }
 ]
