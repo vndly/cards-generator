@@ -3,6 +3,7 @@
         "name": "assault_squad",
         "title": "Assault Squad",
         "frame": "unit",
+        "template": "template_unit",
         "image": "units/assault_squad",
         "subtitle": "usa",
         "cost": "1",
