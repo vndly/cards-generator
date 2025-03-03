@@ -5,7 +5,8 @@ set -e
 #GAME="mafia"
 #GAME="smash"
 #GAME="dbz"
-GAME="dragons"
+#GAME="dragons"
+GAME="frontline"
 
 BASE_DIR=`dirname $0`
 TEMP="${BASE_DIR}/../temp"

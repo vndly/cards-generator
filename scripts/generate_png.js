@@ -3,9 +3,9 @@ const { argv } = require('process')
 const gameName = argv[2]
 const helpers = require(`../input/${gameName}/get-card`)
 
-fs.readdir(`input/${gameName}/cards`, (err, files) => {
+fs.readdir(`input/${gameName}/cards`, (_, files) => {
     files.forEach(file1 => {
-        fs.readdir(`input/${gameName}/cards/${file1}`, (err, files) => {
+        fs.readdir(`input/${gameName}/cards/${file1}`, (_, files) => {
             files.forEach(file2 => {
                 processFile(file1, file2, gameName)
             })
