@@ -1,12 +1,23 @@
 [
     {
-        "name": "assault_squad",
+        "name": "usa_assault_squad",
         "title": "Assault Squad",
         "frame": "unit",
         "template": "template_unit",
         "image": "units/assault_squad",
         "subtitle": "factions/usa",
         "cost": "1",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "usa_machine_gun_team",
+        "title": "Machine gun team",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/machine_gun_team",
+        "subtitle": "factions/usa",
+        "cost": "2",
         "description": [],
         "levels": []
     }
