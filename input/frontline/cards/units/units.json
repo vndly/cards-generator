@@ -17,7 +17,7 @@
         "template": "template_unit",
         "image": "units/machine_gun_team",
         "subtitle": "factions/usa",
-        "cost": "10",
+        "cost": "2",
         "description": [],
         "levels": []
     },
@@ -29,6 +29,17 @@
         "image": "units/rocket_crew",
         "subtitle": "factions/usa",
         "cost": "3",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "usa_sniper",
+        "title": "Sniper",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/sniper",
+        "subtitle": "factions/usa",
+        "cost": "4",
         "description": [],
         "levels": []
     }
