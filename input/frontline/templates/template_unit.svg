@@ -65,16 +65,16 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:middle;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
              text-anchor="middle"
              dominant-baseline="middle"
-             x="202.27"
-             y="35.86"
+             x="210"
+             y="35"
              id="TITLE"
              inkscape:label="TITLE">{{TITLE}}</text>
         <text
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:middle;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1"
-             text-anchor="middle"
-             dominant-baseline="middle"
-             x="333.24"
-             y="36.633"
+             text-anchor="right"
+             dominant-baseline="right"
+             x="345"
+             y="37"
              id="level">{{LEVEL}}</text>
     </g>
 </svg>

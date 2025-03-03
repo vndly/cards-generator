@@ -1,7 +1,7 @@
 [
     {
         "name": "usa_assault_squad",
-        "title": "Assault Squad",
+        "title": "Assault squad",
         "frame": "unit",
         "template": "template_unit",
         "image": "units/assault_squad",
@@ -17,7 +17,18 @@
         "template": "template_unit",
         "image": "units/machine_gun_team",
         "subtitle": "factions/usa",
-        "cost": "2",
+        "cost": "10",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "usa_rocket_crew",
+        "title": "Rocket crew",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/rocket_crew",
+        "subtitle": "factions/usa",
+        "cost": "3",
         "description": [],
         "levels": []
     }

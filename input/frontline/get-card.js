@@ -12,7 +12,7 @@ function cardImage(name) {
 
 function generateSvgUnit(_, template, templateName, title, faction, frame, image, cost, description, levels) {
     const card = template
-        .replace('{{TITLE}}', title)
+        .replace('{{TITLE}}', title.toUpperCase())
         .replace('{{FACTION}}', cardImage(faction))
         .replace('{{LEVEL}}', cost)
         .replace('{{FRAME}}', frame)
