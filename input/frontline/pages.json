@@ -7,7 +7,18 @@
         "units/units/usa_humvee.png",
         "units/units/usa_tank.png",
         "units/units/usa_artillery_vehicle.png",
-        "units/units/usa_assault_squad.png",
-        "units/units/usa_assault_squad.png"
+        "units/units/usa_helicopter.png",
+        "units/units/usa_jet_fighter.png"
+    ],
+    [
+        "units/units/usa_bomber.png",
+        "units/units/usa_bomber.png",
+        "units/units/usa_bomber.png",
+        "units/units/usa_bomber.png",
+        "units/units/usa_bomber.png",
+        "units/units/usa_bomber.png",
+        "units/units/usa_bomber.png",
+        "units/units/usa_bomber.png",
+        "units/units/usa_bomber.png"
     ]
 ]

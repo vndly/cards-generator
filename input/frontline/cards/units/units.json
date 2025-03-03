@@ -75,5 +75,38 @@
         "cost": "7",
         "description": [],
         "levels": []
+    },
+    {
+        "name": "usa_helicopter",
+        "title": "Helicopter",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/helicopter",
+        "subtitle": "factions/usa",
+        "cost": "8",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "usa_jet_fighter",
+        "title": "Jet fighter",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/jet_fighter",
+        "subtitle": "factions/usa",
+        "cost": "9",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "usa_bomber",
+        "title": "Bomber",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/bomber",
+        "subtitle": "factions/usa",
+        "cost": "10",
+        "description": [],
+        "levels": []
     }
 ]
