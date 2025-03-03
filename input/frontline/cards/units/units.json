@@ -42,5 +42,38 @@
         "cost": "4",
         "description": [],
         "levels": []
+    },
+    {
+        "name": "usa_humvee",
+        "title": "Humvee",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/humvee",
+        "subtitle": "factions/usa",
+        "cost": "5",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "usa_tank",
+        "title": "Tank",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/tank",
+        "subtitle": "factions/usa",
+        "cost": "6",
+        "description": [],
+        "levels": []
+    },
+    {
+        "name": "usa_artillery_vehicle",
+        "title": "Artillery vehicle",
+        "frame": "unit",
+        "template": "template_unit",
+        "image": "units/artillery_vehicle",
+        "subtitle": "factions/usa",
+        "cost": "7",
+        "description": [],
+        "levels": []
     }
 ]
