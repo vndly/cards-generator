@@ -6,7 +6,7 @@
      version="1.1"
      id="svg5"
      inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
-     sodipodi:docname="template_card.svg"
+     sodipodi:docname="template_unit.svg"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
      xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +24,9 @@
          inkscape:pagecheckerboard="0"
          inkscape:deskcolor="#d1d1d1"
          inkscape:document-units="mm"
-         inkscape:zoom="0.40872"
-         inkscape:cx="708.31"
-         inkscape:cy="992.13"
+         inkscape:zoom="0.34"
+         inkscape:cx="669.12"
+         inkscape:cy="995.59"
          inkscape:window-width="1920"
          inkscape:window-height="1016"
          inkscape:window-x="0"
@@ -42,46 +42,34 @@
              height="525"
              preserveAspectRatio="none"
              xlink:href="{{IMAGE}}"
-             id="image3416"
+             id="image"
              x="0"
-             y="0"
-             inkscape:label="image" />
+             y="0" />
         <image
              width="375"
              height="525"
              preserveAspectRatio="none"
              xlink:href="{{FRAME}}"
-             id="image4154"
+             id="frame"
              x="0"
-             y="0"
-             inkscape:label="frame" />
-        <text
-             style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-             x="131.16"
-             y="42.447"
-             id="text376"
-             inkscape:label="title"><tspan
-                 sodipodi:role="line"
-                 id="tspantitle"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.25"
-                 x="131.16"
-                 y="42.447">{{TITLE}}</tspan></text>
-        <text
-             style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-             x="25.415"
-             y="38.299"
-             id="text5024"
-             inkscape:label="faction"><tspan
-                 sodipodi:role="line"
-                 id="tspansubtitle"
-                 style="font-size:12px;stroke-width:0.26458"
-                 x="25.415"
-                 y="38.299">FACTION: {{FACTION}}</tspan></text>
+             y="0" />
+        <image
+             width="100"
+             height="66"
+             preserveAspectRatio="none"
+             xlink:href="{{FACTION}}"
+             id="faction"
+             x="0"
+             y="0" />
         <text
              style="font-style:normal;font-weight:normal;font-size:18px;line-height:1.3;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-             x="261.54"
-             y="40.388"
-             id="text1936"
-             inkscape:label="level">{{LEVEL}}</text>
+             x="130.78"
+             y="39.741"
+             id="title">{{TITLE}}</text>
+        <text
+             style="font-style:normal;font-weight:normal;font-size:18px;line-height:1.3;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
+             x="257.66"
+             y="41.682"
+             id="level">{{LEVEL}}</text>
     </g>
 </svg>

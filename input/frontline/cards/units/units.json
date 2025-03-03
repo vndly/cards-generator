@@ -1,11 +1,11 @@
 [
     {
         "name": "assault_squad",
-        "title": "Assault Squad",
+        "title": "Assault\nSquad",
         "frame": "unit",
         "template": "template_unit",
         "image": "units/assault_squad",
-        "subtitle": "usa",
+        "subtitle": "factions/usa",
         "cost": "1",
         "description": [],
         "levels": []
