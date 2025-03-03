@@ -1,7 +1,7 @@
 [
     {
         "name": "assault_squad",
-        "title": "Assault\nSquad",
+        "title": "Assault Squad",
         "frame": "unit",
         "template": "template_unit",
         "image": "units/assault_squad",

@@ -10,15 +10,21 @@ function cardImage(name) {
     return base64File(`input/frontline/images/${name}.png`)
 }
 
-function generateSvg(_, template, title, faction, frame, image, level, _, _) {
+function generateSvgUnit(_, template, templateName, title, faction, frame, image, cost, description, levels) {
     const card = template
         .replace('{{TITLE}}', title)
         .replace('{{FACTION}}', cardImage(faction))
-        .replace('{{LEVEL}}', level)
+        .replace('{{LEVEL}}', cost)
         .replace('{{FRAME}}', frame)
         .replace('{{IMAGE}}', image)
 
     return card
+}
+
+function generateSvg(_, template, templateName, title, faction, frame, image, cost, description, levels) {
+    if (templateName === 'template_unit') {
+        return generateSvgUnit(_, template, templateName, title, faction, frame, image, cost, description, levels)
+    }
 }
 
 module.exports = {

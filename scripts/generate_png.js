@@ -27,6 +27,7 @@ function processFile(file1, file2, gameName) {
         const card = helpers.generateSvg(
             gameName,
             template,
+            templateName,
             entry.title,
             entry.subtitle,
             cardFrame(entry.frame),
