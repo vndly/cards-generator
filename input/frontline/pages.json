@@ -12,13 +12,24 @@
     ],
     [
         "units/units/usa_bomber.png",
-        "units/units/usa_bomber.png",
-        "units/units/usa_bomber.png",
-        "units/units/usa_bomber.png",
-        "units/units/usa_bomber.png",
-        "units/units/usa_bomber.png",
-        "units/units/usa_bomber.png",
-        "units/units/usa_bomber.png",
-        "units/units/usa_bomber.png"
+        "units/units/russia_assault_squad.png",
+        "units/units/russia_machine_gun_team.png",
+        "units/units/russia_rocket_crew.png",
+        "units/units/russia_sniper.png",
+        "units/units/russia_humvee.png",
+        "units/units/russia_tank.png",
+        "units/units/russia_artillery_vehicle.png",
+        "units/units/russia_helicopter.png"
+    ],
+    [
+        "units/units/russia_jet_fighter.png",
+        "units/units/russia_bomber.png",
+        "units/units/china_assault_squad.png",
+        "units/units/china_machine_gun_team.png",
+        "units/units/china_rocket_crew.png",
+        "units/units/china_sniper.png",
+        "units/units/china_humvee.png",
+        "units/units/china_tank.png",
+        "units/units/china_artillery_vehicle.png"
     ]
 ]
