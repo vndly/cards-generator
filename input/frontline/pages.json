@@ -31,5 +31,49 @@
         "units/units/china_humvee.png",
         "units/units/china_tank.png",
         "units/units/china_artillery_vehicle.png"
+    ],
+    [
+        "units/units/china_helicopter.png",
+        "units/units/china_jet_fighter.png",
+        "units/units/china_bomber.png",
+        "units/units/north_korea_assault_squad.png",
+        "units/units/north_korea_machine_gun_team.png",
+        "units/units/north_korea_rocket_crew.png",
+        "units/units/north_korea_sniper.png",
+        "units/units/north_korea_humvee.png",
+        "units/units/north_korea_tank.png"
+    ],
+    [
+        "units/units/north_korea_artillery_vehicle.png",
+        "units/units/north_korea_helicopter.png",
+        "units/units/north_korea_jet_fighter.png",
+        "units/units/north_korea_bomber.png",
+        "units/units/france_assault_squad.png",
+        "units/units/france_machine_gun_team.png",
+        "units/units/france_rocket_crew.png",
+        "units/units/france_sniper.png",
+        "units/units/france_humvee.png"
+    ],
+    [
+        "units/units/france_tank.png",
+        "units/units/france_artillery_vehicle.png",
+        "units/units/france_helicopter.png",
+        "units/units/france_jet_fighter.png",
+        "units/units/france_bomber.png",
+        "units/units/uk_assault_squad.png",
+        "units/units/uk_machine_gun_team.png",
+        "units/units/uk_rocket_crew.png",
+        "units/units/uk_sniper.png"
+    ],
+    [
+        "units/units/uk_humvee.png",
+        "units/units/uk_tank.png",
+        "units/units/uk_artillery_vehicle.png",
+        "units/units/uk_helicopter.png",
+        "units/units/uk_jet_fighter.png",
+        "units/units/uk_bomber.png",
+        "units/units/uk_bomber.png",
+        "units/units/uk_bomber.png",
+        "units/units/uk_bomber.png"
     ]
 ]
