@@ -1,0 +1,13 @@
+[
+    {
+        "name": "battlefield_back",
+        "title": "",
+        "frame": "battlefield_back",
+        "template": "template_battlefield_back",
+        "image": "battlefields/battlefield",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    }
+]
