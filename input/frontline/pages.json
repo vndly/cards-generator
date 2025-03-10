@@ -3,14 +3,15 @@
         "actions/actions/action_recruitment.png",
         "actions/actions/action_stealth.png",
         "actions/actions/action_air_strike.png",
+        "actions/actions/action_traitor.png",
         "actions/actions/action_defection.png",
         "actions/actions/action_evacuation.png",
         "actions/actions/action_redeployment.png",
         "actions/actions/action_rotation.png",
-        "actions/actions/action_spy_plane.png",
-        "actions/actions/action_prisoners.png"
+        "actions/actions/action_spy_plane.png"
     ],
     [
+        "actions/actions/action_prisoners.png",
         "actions/actions/action_hospital.png",
         "actions/actions/action_propaganda.png",
         "actions/actions/action_jamming.png",
@@ -18,56 +19,55 @@
         "actions/actions/action_interception.png",
         "elite/elite/elite_general.png",
         "elite/elite/elite_commando.png",
-        "elite/elite/elite_paratroopers.png",
-        "environment/environment/environment_fog_of_war.png"
+        "elite/elite/elite_paratroopers.png"
     ],
     [
+        "environment/environment/environment_fog_of_war.png",
+        "environment/environment/environment_fog_of_war.png",
+        "environment/environment/environment_river.png",
         "environment/environment/environment_river.png",
         "environment/environment/environment_bridge.png",
-        "environment/environment/environment_oil_field.png",
-        "environment/environment/environment_extraction.png",
-        "environment/environment/environment_intelligence.png",
-        "environment/environment/environment_retreat.png",
-        "environment/environment/environment_fire_at_will.png",
-        "environment/environment/environment_sandstorm.png",
-        "environment/environment/environment_minefield.png"
-    ],
-    [
-        "environment/environment/environment_heavy_machinery.png",
-        "environment/environment/environment_trenches.png",
-        "environment/environment/environment_camouflage.png",
-        "environment/environment/environment_sabotage.png",
-        "environment/environment/environment_collateral_damage.png",
-        "environment/environment/environment_ambush.png",
-        "environment/environment/environment_crossfire.png",
-        "environment/environment/environment_bunker.png",
-        "environment/environment/environment_fog_of_war.png"
-    ],
-    [
-        "environment/environment/environment_river.png",
         "environment/environment/environment_bridge.png",
         "environment/environment/environment_oil_field.png",
+        "environment/environment/environment_oil_field.png",
+        "environment/environment/environment_nuclear_detonation.png"
+    ],
+    [
+        "environment/environment/environment_nuclear_detonation.png",
+        "environment/environment/environment_extraction.png",
         "environment/environment/environment_extraction.png",
         "environment/environment/environment_intelligence.png",
+        "environment/environment/environment_intelligence.png",
+        "environment/environment/environment_retreat.png",
         "environment/environment/environment_retreat.png",
         "environment/environment/environment_fire_at_will.png",
-        "environment/environment/environment_sandstorm.png",
-        "environment/environment/environment_minefield.png"
+        "environment/environment/environment_fire_at_will.png"
     ],
     [
+        "environment/environment/environment_sandstorm.png",
+        "environment/environment/environment_sandstorm.png",
+        "environment/environment/environment_minefield.png",
+        "environment/environment/environment_minefield.png",
+        "environment/environment/environment_heavy_machinery.png",
         "environment/environment/environment_heavy_machinery.png",
         "environment/environment/environment_trenches.png",
-        "environment/environment/environment_camouflage.png",
-        "environment/environment/environment_sabotage.png",
-        "environment/environment/environment_collateral_damage.png",
-        "environment/environment/environment_ambush.png",
-        "environment/environment/environment_crossfire.png",
-        "environment/environment/environment_bunker.png",
-        "help/help/help.png"
+        "environment/environment/environment_trenches.png",
+        "environment/environment/environment_camouflage.png"
     ],
     [
-        "help/help/help.png",
-        "help/help/help.png",
+        "environment/environment/environment_camouflage.png",
+        "environment/environment/environment_sabotage.png",
+        "environment/environment/environment_sabotage.png",
+        "environment/environment/environment_collateral_damage.png",
+        "environment/environment/environment_collateral_damage.png",
+        "environment/environment/environment_ambush.png",
+        "environment/environment/environment_ambush.png",
+        "environment/environment/environment_crossfire.png",
+        "environment/environment/environment_crossfire.png"
+    ],
+    [
+        "environment/environment/environment_bunker.png",
+        "environment/environment/environment_bunker.png",
         "help/help/help.png",
         "help/help/help.png",
         "help/help/help.png",
