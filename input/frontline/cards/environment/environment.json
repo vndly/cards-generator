@@ -12,5 +12,148 @@
             "of the units is considered."
         ],
         "levels": []
+    },
+    {
+        "name": "environment_river",
+        "title": "River",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Both sides require and extra unit to",
+            "claim this battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_bridge",
+        "title": "Bridge",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Both sides require one less unit to",
+            "claim this battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_oil_field",
+        "title": "Oil field",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Counts double if claimed (but not",
+            "as adjacent)."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_nuclear_detonation",
+        "title": "Nuclear detonation",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "All units in this battlefield are",
+            "discarded."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_extraction",
+        "title": "Extraction",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "The winner of this battlefield must",
+            "return all their cards back to the",
+            "bottom of the corresponding pile and",
+            "take 7 new cards."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_intelligence",
+        "title": "Intelligence",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "The winner of this battlefield can look",
+            "at the top 3 cards in the tactic deck",
+            "(but cannot take one or change the order)."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_retreat",
+        "title": "Retreat",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "The loser of this battlefield takes back",
+            "one of their units into their hand",
+            "(they must discard one before)."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_fire_at_will",
+        "title": "Fire at will",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "All new deployments must be played here",
+            "until one player claims the battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_sandstorm",
+        "title": "Sandstorm",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "No one can deploy a unit here for the",
+            "next 5 turns."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_minefield",
+        "title": "Minefield",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "The next unit deployed here is discarded."
+        ],
+        "levels": []
     }
 ]

@@ -22,6 +22,17 @@
         "environment/environment/environment_fog_of_war.png"
     ],
     [
+        "environment/environment/environment_river.png",
+        "environment/environment/environment_bridge.png",
+        "environment/environment/environment_oil_field.png",
+        "environment/environment/environment_extraction.png",
+        "environment/environment/environment_intelligence.png",
+        "environment/environment/environment_retreat.png",
+        "environment/environment/environment_fire_at_will.png",
+        "environment/environment/environment_sandstorm.png",
+        "environment/environment/environment_minefield.png"
+    ],
+    [
         "help/help/help.png",
         "help/help/help.png",
         "help/help/help.png",
