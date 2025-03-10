@@ -1,0 +1,47 @@
+[
+    {
+        "name": "elite_general",
+        "title": "General",
+        "frame": "elite",
+        "template": "template_tactic",
+        "image": "tactic/elite",
+        "subtitle": "Elite",
+        "cost": "",
+        "description": [
+            "Choose its faction and strength when",
+            "claiming the battlefield.",
+            "",
+            "Only one per player can be deployed."
+        ],
+        "levels": []
+    },
+    {
+        "name": "elite_commando",
+        "title": "Commando",
+        "frame": "elite",
+        "template": "template_tactic",
+        "image": "tactic/elite",
+        "subtitle": "Elite",
+        "cost": "",
+        "description": [
+            "A strength 7 card where you choose its",
+            "faction when claiming the battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "elite_paratroopers",
+        "title": "Paratroopers",
+        "frame": "elite",
+        "template": "template_tactic",
+        "image": "tactic/elite",
+        "subtitle": "Elite",
+        "cost": "",
+        "description": [
+            "A card with strength 1, 2, or 3, where",
+            "you choose its faction when claiming",
+            "the battlefield."
+        ],
+        "levels": []
+    }
+]
