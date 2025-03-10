@@ -65,7 +65,8 @@
         "cost": "",
         "description": [
             "Swap one of your deployed units with",
-            "an opponent's unit on the same battlefield."
+            "an opponent's unit on the same",
+            "battlefield."
         ],
         "levels": []
     },

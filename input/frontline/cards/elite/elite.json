@@ -9,9 +9,7 @@
         "cost": "",
         "description": [
             "Choose its faction and strength when",
-            "claiming the battlefield.",
-            "",
-            "Only one per player can be deployed."
+            "claiming the battlefield."
         ],
         "levels": []
     },

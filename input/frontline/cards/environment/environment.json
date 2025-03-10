@@ -50,8 +50,8 @@
         "subtitle": "Environment",
         "cost": "",
         "description": [
-            "Counts double if claimed (but not",
-            "as adjacent)."
+            "Counts double if claimed (but not as",
+            "adjacent)."
         ],
         "levels": []
     },
@@ -64,8 +64,7 @@
         "subtitle": "Environment",
         "cost": "",
         "description": [
-            "All units in this battlefield are",
-            "discarded."
+            "All units in this battlefield are discarded."
         ],
         "levels": []
     },
