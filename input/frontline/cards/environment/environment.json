@@ -123,8 +123,8 @@
         "subtitle": "Environment",
         "cost": "",
         "description": [
-            "All new deployments must be played here",
-            "until one player claims the battlefield."
+            "All new deployments must be played in this",
+            "battlefield until one player claims it."
         ],
         "levels": []
     },
@@ -137,8 +137,8 @@
         "subtitle": "Environment",
         "cost": "",
         "description": [
-            "No one can deploy a unit here for the",
-            "next 5 turns."
+            "No one can deploy a unit in this",
+            "battlefield for the next 5 turns."
         ],
         "levels": []
     },
@@ -151,7 +151,8 @@
         "subtitle": "Environment",
         "cost": "",
         "description": [
-            "The next unit deployed here is discarded."
+            "The next unit deployed in this battlefield",
+            "is discarded."
         ],
         "levels": []
     },
@@ -165,7 +166,7 @@
         "cost": "",
         "description": [
             "Units with strength 1 to 5 cannot be",
-            "deployed here."
+            "deployed in this battlefield."
         ],
         "levels": []
     },
@@ -179,7 +180,7 @@
         "cost": "",
         "description": [
             "Units with strength 6 to 10 cannot be",
-            "deployed here."
+            "deployed in this battlefield."
         ],
         "levels": []
     },
@@ -192,7 +193,8 @@
         "subtitle": "Environment",
         "cost": "",
         "description": [
-            "Next units are all stealth."
+            "Next units in this battlefield are all",
+            "stealthy."
         ],
         "levels": []
     },
