@@ -10,7 +10,7 @@ function cardImage(name) {
     return base64File(`input/frontline/images/${name}.png`)
 }
 
-function generateSvgUnit(_, template, templateName, title, faction, frame, image, cost, description, levels) {
+function generateSvgUnit(template, templateName, title, faction, frame, image, cost, description, levels) {
     const card = template
         .replace('{{TITLE}}', title.toUpperCase())
         .replace('{{FACTION}}', cardImage(faction))
@@ -22,18 +22,45 @@ function generateSvgUnit(_, template, templateName, title, faction, frame, image
     return card
 }
 
-function generateSvgBattlefieldBack(_, template, templateName, title, faction, frame, image, cost, description, levels) {
+function generateSvgBattlefieldBack(template, templateName, title, faction, frame, image, cost, description, levels) {
     const card = template
         .replace('{{IMAGE}}', image)
 
     return card
 }
 
-function generateSvg(_, template, templateName, title, faction, frame, image, cost, description, levels) {
+function descriptionLine(text, index) {
+    return `<tspan sodipodi:role="line" style="font-size:14px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
+}
+
+function generateSvgAction(template, templateName, title, subtitle, frame, image, cost, description, levels) {
+    let descriptionTag = ''
+
+    for (let i = 0; i < description.length; i++) {
+        if (descriptionTag) {
+            descriptionTag += '\n\t\t\t'
+        }
+
+        descriptionTag += descriptionLine(description[i], i)
+    }
+
+    const card = template
+        .replace('{{TITLE}}', title)
+        .replace('{{SUBTITLE}}', subtitle)
+        .replace('{{DESCRIPTION}}', descriptionTag)
+        .replace('{{FRAME}}', frame)
+        .replace('{{IMAGE}}', image)
+
+    return card
+}
+
+function generateSvg(_, template, templateName, title, subtitle, frame, image, cost, description, levels) {
     if (templateName === 'template_unit') {
-        return generateSvgUnit(_, template, templateName, title, faction, frame, image, cost, description, levels)
+        return generateSvgUnit(template, templateName, title, subtitle, frame, image, cost, description, levels)
     } else if (templateName === 'template_battlefield_back') {
-        return generateSvgBattlefieldBack(_, template, templateName, title, faction, frame, image, cost, description, levels)
+        return generateSvgBattlefieldBack(template, templateName, title, subtitle, frame, image, cost, description, levels)
+    } else if (templateName === 'template_action') {
+        return generateSvgAction(template, templateName, title, subtitle, frame, image, cost, description, levels)
     }
 }
 

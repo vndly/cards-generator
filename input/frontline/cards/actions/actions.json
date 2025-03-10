@@ -1,0 +1,16 @@
+[
+    {
+        "name": "action_recruitment",
+        "title": "Recruitment",
+        "frame": "action",
+        "template": "template_action",
+        "image": "actions/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Take 3 cards from one of the two decks",
+            "and put 2 back at the bottom of the deck."
+        ],
+        "levels": []
+    }
+]
