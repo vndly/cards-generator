@@ -1,0 +1,16 @@
+[
+    {
+        "name": "environment_fog_of_war",
+        "title": "Fog of war",
+        "frame": "elite",
+        "template": "template_tactic",
+        "image": "tactic/elite",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Ignore formations. Only the strength",
+            "of the units is considered."
+        ],
+        "levels": []
+    }
+]
