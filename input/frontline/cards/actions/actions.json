@@ -4,7 +4,7 @@
         "title": "Recruitment",
         "frame": "action",
         "template": "template_action",
-        "image": "actions/action",
+        "image": "tactic/action",
         "subtitle": "Action",
         "cost": "",
         "description": [
