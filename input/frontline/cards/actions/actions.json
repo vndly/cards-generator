@@ -138,5 +138,75 @@
             "to give back."
         ],
         "levels": []
+    },
+    {
+        "name": "action_hospital",
+        "title": "Hospital",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Take one of your previously discarded",
+            "units back into your hand."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_propaganda",
+        "title": "Propaganda",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Choose a random card from an opponent's",
+            "hand to be discarded."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_jamming",
+        "title": "Jamming",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Choose an opponent that cannot play",
+            "any tactic card for the next 5 turns."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_decoy",
+        "title": "Decoy",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Choose an opponent that must play their",
+            "next unit at a battlefield of your choice."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_interception",
+        "title": "Interception",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Look at the next card drawn by an",
+            "opponent of your choice."
+        ],
+        "levels": []
     }
 ]
