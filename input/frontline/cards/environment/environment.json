@@ -155,5 +155,118 @@
             "The next unit deployed here is discarded."
         ],
         "levels": []
+    },
+    {
+        "name": "environment_heavy_machinery",
+        "title": "Heavy machinery",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Units with strength 1 to 5 cannot be",
+            "deployed here."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_trenches",
+        "title": "Trenches",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Units with strength 6 to 10 cannot be",
+            "deployed here."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_camouflage",
+        "title": "Camouflage",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Next units are all stealth."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_sabotage",
+        "title": "Sabotage",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "No tactic cards can be played in",
+            "this battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_collateral_damage",
+        "title": "Collateral damage",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "When claiming this battlefield, discard",
+            "one of your units from another battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_ambush",
+        "title": "Ambush",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "When claiming this battlefield, discard",
+            "one of your opponent's units from an",
+            "adjacent battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_crossfire",
+        "title": "Crossfire",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Units of the same strength annihilate",
+            "each other. If no units are present in the",
+            "battlefield, the tactic card is discarded."
+        ],
+        "levels": []
+    },
+    {
+        "name": "environment_bunker",
+        "title": "Bunker",
+        "frame": "environment",
+        "template": "template_tactic",
+        "image": "tactic/environment",
+        "subtitle": "Environment",
+        "cost": "",
+        "description": [
+            "Units in this battlefield cannot be",
+            "moved or discarded."
+        ],
+        "levels": []
     }
 ]

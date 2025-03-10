@@ -33,6 +33,39 @@
         "environment/environment/environment_minefield.png"
     ],
     [
+        "environment/environment/environment_heavy_machinery.png",
+        "environment/environment/environment_trenches.png",
+        "environment/environment/environment_camouflage.png",
+        "environment/environment/environment_sabotage.png",
+        "environment/environment/environment_collateral_damage.png",
+        "environment/environment/environment_ambush.png",
+        "environment/environment/environment_crossfire.png",
+        "environment/environment/environment_bunker.png",
+        "environment/environment/environment_fog_of_war.png"
+    ],
+    [
+        "environment/environment/environment_river.png",
+        "environment/environment/environment_bridge.png",
+        "environment/environment/environment_oil_field.png",
+        "environment/environment/environment_extraction.png",
+        "environment/environment/environment_intelligence.png",
+        "environment/environment/environment_retreat.png",
+        "environment/environment/environment_fire_at_will.png",
+        "environment/environment/environment_sandstorm.png",
+        "environment/environment/environment_minefield.png"
+    ],
+    [
+        "environment/environment/environment_heavy_machinery.png",
+        "environment/environment/environment_trenches.png",
+        "environment/environment/environment_camouflage.png",
+        "environment/environment/environment_sabotage.png",
+        "environment/environment/environment_collateral_damage.png",
+        "environment/environment/environment_ambush.png",
+        "environment/environment/environment_crossfire.png",
+        "environment/environment/environment_bunker.png",
+        "help/help/help.png"
+    ],
+    [
         "help/help/help.png",
         "help/help/help.png",
         "help/help/help.png",
