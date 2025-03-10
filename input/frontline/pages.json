@@ -1,13 +1,13 @@
 [
     [
         "actions/actions/action_recruitment.png",
-        "actions/actions/action_recruitment.png",
-        "actions/actions/action_recruitment.png",
-        "actions/actions/action_recruitment.png",
-        "actions/actions/action_recruitment.png",
-        "actions/actions/action_recruitment.png",
-        "actions/actions/action_recruitment.png",
-        "actions/actions/action_recruitment.png",
-        "actions/actions/action_recruitment.png"
+        "actions/actions/action_stealth.png",
+        "actions/actions/action_air_strike.png",
+        "actions/actions/action_defection.png",
+        "actions/actions/action_evacuation.png",
+        "actions/actions/action_redeployment.png",
+        "actions/actions/action_rotation.png",
+        "actions/actions/action_spy_plane.png",
+        "actions/actions/action_prisoners.png"
     ]
 ]

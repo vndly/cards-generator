@@ -33,7 +33,7 @@ function descriptionLine(text, index) {
     return `<tspan sodipodi:role="line" style="font-size:14px;stroke-width:0.26458" x="42" y="${375.52 + (18.52 * index)}" id="tspanline${index + 1}">${text}</tspan>`
 }
 
-function generateSvgAction(template, templateName, title, subtitle, frame, image, cost, description, levels) {
+function generateSvgTactic(template, templateName, title, subtitle, frame, image, cost, description, levels) {
     let descriptionTag = ''
 
     for (let i = 0; i < description.length; i++) {
@@ -59,8 +59,8 @@ function generateSvg(_, template, templateName, title, subtitle, frame, image, c
         return generateSvgUnit(template, templateName, title, subtitle, frame, image, cost, description, levels)
     } else if (templateName === 'template_battlefield_back') {
         return generateSvgBattlefieldBack(template, templateName, title, subtitle, frame, image, cost, description, levels)
-    } else if (templateName === 'template_action') {
-        return generateSvgAction(template, templateName, title, subtitle, frame, image, cost, description, levels)
+    } else if (templateName === 'template_tactic') {
+        return generateSvgTactic(template, templateName, title, subtitle, frame, image, cost, description, levels)
     }
 }
 

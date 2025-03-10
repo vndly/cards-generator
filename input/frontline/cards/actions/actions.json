@@ -3,13 +3,139 @@
         "name": "action_recruitment",
         "title": "Recruitment",
         "frame": "action",
-        "template": "template_action",
+        "template": "template_tactic",
         "image": "tactic/action",
         "subtitle": "Action",
         "cost": "",
         "description": [
             "Take 3 cards from one of the two decks",
             "and put 2 back at the bottom of the deck."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_stealth",
+        "title": "Stealth",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Deploy one unit face down.",
+            "Take back two cards."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_air_strike",
+        "title": "Air strike",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Choose a deployed opponent unit",
+            "to be discarded."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_traitor",
+        "title": "Traitor",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Choose a deployed opponent unit and",
+            "deploy it on your side."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_defection",
+        "title": "Defection",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Swap one of your deployed units with",
+            "an opponent's unit on the same battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_evacuation",
+        "title": "Evacuation",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Take one of your deployed units back",
+            "into your hand."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_redeployment",
+        "title": "Redeployment",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Move one of your deployed units to",
+            "another battlefield."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_rotation",
+        "title": "Rotation",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Swap one of your deployed units with",
+            "a unit from your hand."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_spy_plane",
+        "title": "Spy plane",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Look at 3 cards from an opponent's hand."
+        ],
+        "levels": []
+    },
+    {
+        "name": "action_prisoners",
+        "title": "Prisoners",
+        "frame": "action",
+        "template": "template_tactic",
+        "image": "tactic/action",
+        "subtitle": "Action",
+        "cost": "",
+        "description": [
+            "Take a random card from an opponent's",
+            "hand and choose a card from your hand",
+            "to give back."
         ],
         "levels": []
     }
