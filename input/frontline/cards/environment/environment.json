@@ -2,9 +2,9 @@
     {
         "name": "environment_fog_of_war",
         "title": "Fog of war",
-        "frame": "elite",
+        "frame": "environment",
         "template": "template_tactic",
-        "image": "tactic/elite",
+        "image": "tactic/environment",
         "subtitle": "Environment",
         "cost": "",
         "description": [

@@ -1,0 +1,13 @@
+[
+    {
+        "name": "help",
+        "title": "",
+        "frame": "help",
+        "template": "template_help",
+        "image": "help/help",
+        "subtitle": "",
+        "cost": "",
+        "description": [],
+        "levels": []
+    }
+]

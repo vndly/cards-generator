@@ -22,6 +22,13 @@ function generateSvgUnit(template, templateName, title, faction, frame, image, c
     return card
 }
 
+function generateSvgHelp(template, templateName, title, faction, frame, image, cost, description, levels) {
+    const card = template
+        .replace('{{IMAGE}}', image)
+
+    return card
+}
+
 function generateSvgBattlefieldBack(template, templateName, title, faction, frame, image, cost, description, levels) {
     const card = template
         .replace('{{IMAGE}}', image)
@@ -55,7 +62,9 @@ function generateSvgTactic(template, templateName, title, subtitle, frame, image
 }
 
 function generateSvg(_, template, templateName, title, subtitle, frame, image, cost, description, levels) {
-    if (templateName === 'template_unit') {
+    if (templateName === 'template_help') {
+        return generateSvgHelp(template, templateName, title, subtitle, frame, image, cost, description, levels)
+    } else if (templateName === 'template_unit') {
         return generateSvgUnit(template, templateName, title, subtitle, frame, image, cost, description, levels)
     } else if (templateName === 'template_battlefield_back') {
         return generateSvgBattlefieldBack(template, templateName, title, subtitle, frame, image, cost, description, levels)
